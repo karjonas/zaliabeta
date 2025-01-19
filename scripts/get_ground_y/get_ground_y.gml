@@ -18,6 +18,10 @@ function get_ground_y() {
 	if (argument_count>_arg && argument[_arg++]) _SOLID_BITS = max(TID_SOLID1,argument[_arg-1]);
 
 
+	if (_ROWS < 1) {
+		return _DEFAULT;
+	}
+	
 	var _is_in_solid = (!!(g.dg_RmTile_solid[#_search_CLM,_search_row]&$FF));
 
 

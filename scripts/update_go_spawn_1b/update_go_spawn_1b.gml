@@ -73,14 +73,14 @@ function update_go_spawn_1b(argument0) {
     
     
 	    // 1: avail to spawn, 0: spawned/can't respawn, -1: can't spawn again
-	    if (val(g.dm_spawn[?_spawn_dk+STR_Spawn_Permission]) != 1)
+	    if (val(g.dm_spawn[?string(_spawn_dk)+STR_Spawn_Permission]) != 1)
 	    {
 	        continue; // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 	    }
     
 	    if (g.encounter_type)
 	    {
-	            _val  = (!!val(g.dm_spawn[?_spawn_dk+STR_Strong+STR_Encounter]));
+	            _val  = (!!val(g.dm_spawn[?string(_spawn_dk)+STR_Strong+STR_Encounter]));
 	        if (_val != (!!(g.encounter_type&g.ENC_STRG)))
 	        {
 	            continue; // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

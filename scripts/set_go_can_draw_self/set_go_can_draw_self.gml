@@ -23,11 +23,11 @@ function set_go_can_draw_self(argument0) {
 	// Enemy, 
 	for(_i=0; _i<MAX_GOB1; _i++)
 	{
-	    if!(g.go_mgr.dl_gob1[|_i]+1)
+		if (is_undefined(   g.go_mgr.dl_gob1[|_i]) 
+	    || !instance_exists(g.go_mgr.dl_gob1[|_i]) )
 	    {
 	        continue;//_i
 	    }
-    
     
 	    with(g.go_mgr.dl_gob1[|_i])
 	    {
@@ -61,11 +61,11 @@ function set_go_can_draw_self(argument0) {
 	// Projectile Hostile
 	for(_i=0; _i<MAX_GOC1; _i++)
 	{
-	    if!(g.go_mgr.dl_goc1[|_i]+1)
+		if (is_undefined(   g.go_mgr.dl_goc1[|_i]) 
+	    || !instance_exists(g.go_mgr.dl_goc1[|_i]) )
 	    {
 	        continue;//_i
-	    }
-    
+	    }    
     
 	    with(g.go_mgr.dl_goc1[|_i])
 	    {
@@ -79,7 +79,8 @@ function set_go_can_draw_self(argument0) {
 	// Projectile Friendly
 	for(_i=0; _i<MAX_GOC2; _i++)
 	{
-	    if!(g.go_mgr.dl_goc2[|_i]+1)
+		if (is_undefined(   g.go_mgr.dl_goc2[|_i]) 
+	    || !instance_exists(g.go_mgr.dl_goc2[|_i]) )
 	    {
 	        continue;//_i
 	    }
