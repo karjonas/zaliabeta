@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"break_block",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"break_block",
+  "parent":{
+    "name":"tile",
+    "path":"folders/Scripts/tile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

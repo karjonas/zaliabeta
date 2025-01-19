@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PC_update_stab_frenzy_1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PC_update_stab_frenzy_1",
+  "parent":{
+    "name":"goa",
+    "path":"folders/Scripts/game_object/goa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

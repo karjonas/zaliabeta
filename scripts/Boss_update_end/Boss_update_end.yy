@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Boss_update_end",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Boss_update_end",
+  "parent":{
+    "name":"boss",
+    "path":"folders/Scripts/game_object/gob/gob1/boss.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

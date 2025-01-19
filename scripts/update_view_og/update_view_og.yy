@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_view_og",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_view_og",
+  "parent":{
+    "name":"view",
+    "path":"folders/Scripts/view.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

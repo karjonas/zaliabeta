@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Item_update_vertical",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Item_update_vertical",
+  "parent":{
+    "name":"item",
+    "path":"folders/Scripts/game_object/gob/gob2/item.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

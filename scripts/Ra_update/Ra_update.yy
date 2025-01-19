@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Ra_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Ra_update",
+  "parent":{
+    "name":"ra",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/ra.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

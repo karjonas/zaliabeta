@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Ganon_update_xy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Ganon_update_xy",
+  "parent":{
+    "name":"ganon",
+    "path":"folders/Scripts/game_object/gob/gob1/boss/ganon.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

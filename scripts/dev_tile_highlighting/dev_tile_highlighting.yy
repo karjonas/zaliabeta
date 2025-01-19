@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dev_tile_highlighting",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dev_tile_highlighting",
+  "parent":{
+    "name":"palette",
+    "path":"folders/Scripts/palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

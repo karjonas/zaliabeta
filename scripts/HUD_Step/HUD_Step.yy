@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"HUD_Step",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"HUD_Step",
+  "parent":{
+    "name":"HUD",
+    "path":"folders/Scripts/gui/HUD.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

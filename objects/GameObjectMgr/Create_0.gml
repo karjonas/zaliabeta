@@ -1,0 +1,2 @@
+GameObjectMgr_Create();
+

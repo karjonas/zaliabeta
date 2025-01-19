@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"OptionsMenu_update_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"OptionsMenu_update_1a",
+  "parent":{
+    "name":"options_menu",
+    "path":"folders/Scripts/gui/options_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

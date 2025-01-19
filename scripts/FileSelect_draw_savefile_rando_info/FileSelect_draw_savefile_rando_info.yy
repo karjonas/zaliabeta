@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FileSelect_draw_savefile_rando_info",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FileSelect_draw_savefile_rando_info",
+  "parent":{
+    "name":"file_select",
+    "path":"folders/Scripts/rooms/file_select.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

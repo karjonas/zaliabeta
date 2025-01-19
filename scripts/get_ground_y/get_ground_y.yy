@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_ground_y",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_ground_y",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

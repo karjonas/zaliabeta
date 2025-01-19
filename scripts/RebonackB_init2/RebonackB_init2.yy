@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"RebonackB_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RebonackB_init2",
+  "parent":{
+    "name":"rebonack",
+    "path":"folders/Scripts/game_object/gob/gob1/boss/rebonack.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

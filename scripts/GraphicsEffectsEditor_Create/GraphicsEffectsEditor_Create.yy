@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GraphicsEffectsEditor_Create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GraphicsEffectsEditor_Create",
+  "parent":{
+    "name":"GraphicsEffectsEditor",
+    "path":"folders/Scripts/graphics/GraphicsEffectsEditor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

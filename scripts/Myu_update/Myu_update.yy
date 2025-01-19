@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Myu_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Myu_update",
+  "parent":{
+    "name":"myu",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/myu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PC_reset_to_spawn",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PC_reset_to_spawn",
+  "parent":{
+    "name":"goa",
+    "path":"folders/Scripts/game_object/goa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

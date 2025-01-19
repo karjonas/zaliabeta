@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_jar_restore_dur",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_jar_restore_dur",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

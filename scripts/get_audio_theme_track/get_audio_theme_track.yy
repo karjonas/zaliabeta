@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_audio_theme_track",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_audio_theme_track",
+  "parent":{
+    "name":"sound",
+    "path":"folders/Scripts/sound.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"RandoData_enemy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RandoData_enemy",
+  "parent":{
+    "name":"rando",
+    "path":"folders/Scripts/rando.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

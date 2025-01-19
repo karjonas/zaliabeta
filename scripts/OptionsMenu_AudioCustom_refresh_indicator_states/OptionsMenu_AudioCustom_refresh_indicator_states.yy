@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"OptionsMenu_AudioCustom_refresh_indicator_states",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"OptionsMenu_AudioCustom_refresh_indicator_states",
+  "parent":{
+    "name":"options_menu",
+    "path":"folders/Scripts/gui/options_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

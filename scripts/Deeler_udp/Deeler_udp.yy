@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Deeler_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Deeler_udp",
+  "parent":{
+    "name":"deeler",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/deeler.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

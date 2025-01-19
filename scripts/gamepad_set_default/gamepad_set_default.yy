@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"gamepad_set_default",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gamepad_set_default",
+  "parent":{
+    "name":"Input",
+    "path":"folders/Scripts/Input.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

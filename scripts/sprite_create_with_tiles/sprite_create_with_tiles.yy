@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sprite_create_with_tiles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sprite_create_with_tiles",
+  "parent":{
+    "name":"graphics",
+    "path":"folders/Scripts/graphics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

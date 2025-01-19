@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Fokkeru_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Fokkeru_draw",
+  "parent":{
+    "name":"fokkeru",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/fokkeru.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

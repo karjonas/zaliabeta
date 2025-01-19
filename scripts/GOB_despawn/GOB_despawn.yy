@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GOB_despawn",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GOB_despawn",
+  "parent":{
+    "name":"gob",
+    "path":"folders/Scripts/game_object/gob.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

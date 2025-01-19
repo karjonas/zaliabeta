@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_thermal",
+  "name":"shd_thermal",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

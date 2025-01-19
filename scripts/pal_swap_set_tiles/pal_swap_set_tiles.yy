@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pal_swap_set_tiles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pal_swap_set_tiles",
+  "parent":{
+    "name":"palette_swap",
+    "path":"folders/Scripts/palette/palette_swap.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

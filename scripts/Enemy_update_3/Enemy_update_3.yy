@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Enemy_update_3",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Enemy_update_3",
+  "parent":{
+    "name":"enemy",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

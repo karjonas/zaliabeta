@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Tektite_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Tektite_update",
+  "parent":{
+    "name":"tektite",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/tektite.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"RandoDebug01_Destroy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RandoDebug01_Destroy",
+  "parent":{
+    "name":"rando_debug",
+    "path":"folders/Scripts/rando/rando_debug.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

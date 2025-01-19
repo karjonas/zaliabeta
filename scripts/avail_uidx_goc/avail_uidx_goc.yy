@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"avail_uidx_goc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"avail_uidx_goc",
+  "parent":{
+    "name":"projectile_hostile",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

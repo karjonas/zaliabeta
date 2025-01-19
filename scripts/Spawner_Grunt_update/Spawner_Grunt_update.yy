@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Spawner_Grunt_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Spawner_Grunt_update",
+  "parent":{
+    "name":"grunt_spawner",
+    "path":"folders/Scripts/game_object/gob/gob2/spawner/grunt_spawner.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

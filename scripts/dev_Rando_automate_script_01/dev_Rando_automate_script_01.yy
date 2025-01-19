@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dev_Rando_automate_script_01",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dev_Rando_automate_script_01",
+  "parent":{
+    "name":"dev",
+    "path":"folders/Scripts/dev.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

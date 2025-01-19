@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SpikeTrapA_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SpikeTrapA_udp",
+  "parent":{
+    "name":"spike_trap_a",
+    "path":"folders/Scripts/game_object/gob/gob2/spike_trap/spike_trap_a.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"overlap_x",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"overlap_x",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

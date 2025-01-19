@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"collisionProjCS",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"collisionProjCS",
+  "parent":{
+    "name":"projectile_hostile",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

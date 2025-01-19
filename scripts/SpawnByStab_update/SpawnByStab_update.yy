@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SpawnByStab_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SpawnByStab_update",
+  "parent":{
+    "name":"spawn_by_stab",
+    "path":"folders/Scripts/game_object/gob/gob2/spawn_by_stab.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

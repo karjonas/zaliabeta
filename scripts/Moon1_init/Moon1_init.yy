@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Moon1_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Moon1_init",
+  "parent":{
+    "name":"moon",
+    "path":"folders/Scripts/niao/moon.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

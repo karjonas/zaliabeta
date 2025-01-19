@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FileSelect_build_surfaces",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FileSelect_build_surfaces",
+  "parent":{
+    "name":"file_select",
+    "path":"folders/Scripts/rooms/file_select.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

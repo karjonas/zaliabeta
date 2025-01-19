@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PalettePicker_Game_End",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PalettePicker_Game_End",
+  "parent":{
+    "name":"Dev_Palette",
+    "path":"folders/Scripts/dev/Dev_Palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

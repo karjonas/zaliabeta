@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FileSelect_Eliminate_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FileSelect_Eliminate_update",
+  "parent":{
+    "name":"file_select",
+    "path":"folders/Scripts/rooms/file_select.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

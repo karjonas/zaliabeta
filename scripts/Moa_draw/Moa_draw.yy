@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Moa_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Moa_draw",
+  "parent":{
+    "name":"moa",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/moa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"isProjSprAdjFrame",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"isProjSprAdjFrame",
+  "parent":{
+    "name":"projectile_hostile",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

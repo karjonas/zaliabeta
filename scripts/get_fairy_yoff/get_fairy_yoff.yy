@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_fairy_yoff",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_fairy_yoff",
+  "parent":{
+    "name":"graphics",
+    "path":"folders/Scripts/graphics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

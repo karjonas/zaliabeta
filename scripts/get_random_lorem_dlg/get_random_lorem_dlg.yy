@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_random_lorem_dlg",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_random_lorem_dlg",
+  "parent":{
+    "name":"other",
+    "path":"folders/Scripts/other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

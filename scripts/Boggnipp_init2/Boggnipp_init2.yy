@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Boggnipp_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Boggnipp_init2",
+  "parent":{
+    "name":"boggnipp",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/boggnipp.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

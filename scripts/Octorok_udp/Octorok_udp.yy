@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Octorok_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Octorok_udp",
+  "parent":{
+    "name":"octorok",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/octorok.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

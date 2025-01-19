@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ArenaGateA_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ArenaGateA_udp",
+  "parent":{
+    "name":"arena_gate",
+    "path":"folders/Scripts/game_object/gob/gob2/arena_gate.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

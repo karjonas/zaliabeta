@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"triforce_pal_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"triforce_pal_update",
+  "parent":{
+    "name":"palette",
+    "path":"folders/Scripts/palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

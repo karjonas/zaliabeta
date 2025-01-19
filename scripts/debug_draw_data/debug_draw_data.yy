@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"debug_draw_data",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"debug_draw_data",
+  "parent":{
+    "name":"surface",
+    "path":"folders/Scripts/surface.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

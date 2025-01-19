@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Spawner_Bago_init1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Spawner_Bago_init1",
+  "parent":{
+    "name":"bago_spawner",
+    "path":"folders/Scripts/game_object/gob/gob2/spawner/bago_spawner.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

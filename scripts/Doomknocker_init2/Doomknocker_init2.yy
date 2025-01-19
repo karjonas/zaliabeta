@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Doomknocker_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Doomknocker_init2",
+  "parent":{
+    "name":"doomknocker",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/doomknocker.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

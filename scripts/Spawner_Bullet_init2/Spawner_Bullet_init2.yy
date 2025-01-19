@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Spawner_Bullet_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Spawner_Bullet_init2",
+  "parent":{
+    "name":"bullet_spawner",
+    "path":"folders/Scripts/game_object/gob/gob2/spawner/bullet_spawner.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

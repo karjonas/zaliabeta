@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MiniGame_end",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MiniGame_end",
+  "parent":{
+    "name":"mini_game",
+    "path":"folders/Scripts/game_object/goe/challenge/mini_game.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

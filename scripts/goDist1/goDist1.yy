@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"goDist1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"goDist1",
+  "parent":{
+    "name":"gob",
+    "path":"folders/Scripts/game_object/gob.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

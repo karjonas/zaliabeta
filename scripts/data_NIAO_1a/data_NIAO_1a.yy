@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"data_NIAO_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"data_NIAO_1a",
+  "parent":{
+    "name":"niao",
+    "path":"folders/Scripts/niao.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

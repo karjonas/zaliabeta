@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"can_update_frame",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"can_update_frame",
+  "parent":{
+    "name":"dev",
+    "path":"folders/Scripts/dev.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

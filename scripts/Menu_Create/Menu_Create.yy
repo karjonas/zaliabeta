@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Menu_Create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Menu_Create",
+  "parent":{
+    "name":"gui",
+    "path":"folders/Scripts/gui.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dir8b",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dir8b",
+  "parent":{
+    "name":"math",
+    "path":"folders/Scripts/math.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

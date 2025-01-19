@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GOB_update_cs_2a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GOB_update_cs_2a",
+  "parent":{
+    "name":"cs",
+    "path":"folders/Scripts/collision/cs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

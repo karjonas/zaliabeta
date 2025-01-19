@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Spawner_PoisonBubble_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Spawner_PoisonBubble_update",
+  "parent":{
+    "name":"bubble_spawner",
+    "path":"folders/Scripts/game_object/gob/gob2/spawner/bubble_spawner.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

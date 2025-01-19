@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"spr_y_at_y",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spr_y_at_y",
+  "parent":{
+    "name":"graphics",
+    "path":"folders/Scripts/graphics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

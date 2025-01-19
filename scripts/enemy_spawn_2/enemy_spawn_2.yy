@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"enemy_spawn_2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enemy_spawn_2",
+  "parent":{
+    "name":"spawner",
+    "path":"folders/Scripts/game_object/gob/gob2/spawner.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

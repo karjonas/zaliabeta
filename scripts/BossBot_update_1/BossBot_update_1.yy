@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BossBot_update_1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BossBot_update_1",
+  "parent":{
+    "name":"bot",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/bot.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

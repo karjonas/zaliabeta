@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"point_in_rect",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"point_in_rect",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

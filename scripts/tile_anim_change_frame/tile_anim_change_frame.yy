@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tile_anim_change_frame",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tile_anim_change_frame",
+  "parent":{
+    "name":"tile",
+    "path":"folders/Scripts/tile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

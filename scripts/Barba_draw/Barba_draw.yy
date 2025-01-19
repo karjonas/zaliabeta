@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Barba_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Barba_draw",
+  "parent":{
+    "name":"barba",
+    "path":"folders/Scripts/game_object/gob/gob1/boss/barba.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_xp_str",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_xp_str",
+  "parent":{
+    "name":"gui",
+    "path":"folders/Scripts/gui.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

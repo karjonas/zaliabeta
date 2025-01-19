@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PauseMenu_map_set_pcrc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PauseMenu_map_set_pcrc",
+  "parent":{
+    "name":"pause_menu",
+    "path":"folders/Scripts/gui/pause_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

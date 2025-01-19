@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"debug_exit_data_2a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"debug_exit_data_2a",
+  "parent":{
+    "name":"room",
+    "path":"folders/Scripts/debug/room.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PlatformB_init_1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PlatformB_init_1",
+  "parent":{
+    "name":"PlatformB",
+    "path":"folders/Scripts/game_object/god/platform/PlatformB.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

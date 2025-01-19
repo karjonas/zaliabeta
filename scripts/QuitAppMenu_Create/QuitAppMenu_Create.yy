@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"QuitAppMenu_Create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"QuitAppMenu_Create",
+  "parent":{
+    "name":"quit_app_menu",
+    "path":"folders/Scripts/gui/quit_app_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

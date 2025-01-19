@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Boss_HPBar_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Boss_HPBar_udp",
+  "parent":{
+    "name":"boss",
+    "path":"folders/Scripts/game_object/gob/gob1/boss.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

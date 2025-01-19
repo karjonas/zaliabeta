@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dev_find_scenes_using_certain_tiles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dev_find_scenes_using_certain_tiles",
+  "parent":{
+    "name":"tile",
+    "path":"folders/Scripts/debug/tile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GameOverScreen_Create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GameOverScreen_Create",
+  "parent":{
+    "name":"game_over",
+    "path":"folders/Scripts/rooms/game_over.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"set_view_xy_on_pc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_view_xy_on_pc",
+  "parent":{
+    "name":"view",
+    "path":"folders/Scripts/view.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

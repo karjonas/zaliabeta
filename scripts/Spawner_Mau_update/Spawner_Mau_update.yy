@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Spawner_Mau_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Spawner_Mau_update",
+  "parent":{
+    "name":"mau_spawner",
+    "path":"folders/Scripts/game_object/gob/gob2/spawner/mau_spawner.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_vars_Challenge_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_vars_Challenge_1a",
+  "parent":{
+    "name":"init_vars",
+    "path":"folders/Scripts/game_object/goe/challenge/init_vars.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

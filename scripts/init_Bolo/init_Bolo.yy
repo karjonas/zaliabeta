@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_Bolo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_Bolo",
+  "parent":{
+    "name":"bolo",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/bolo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

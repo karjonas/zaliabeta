@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"point_collide_solid_obj",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"point_collide_solid_obj",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Backwall_init1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Backwall_init1",
+  "parent":{
+    "name":"backwall",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/backwall.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

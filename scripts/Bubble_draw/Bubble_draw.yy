@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Bubble_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Bubble_draw",
+  "parent":{
+    "name":"bubble",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/bubble.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

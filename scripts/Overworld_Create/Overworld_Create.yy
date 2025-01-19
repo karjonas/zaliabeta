@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Overworld_Create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Overworld_Create",
+  "parent":{
+    "name":"overworld",
+    "path":"folders/Scripts/overworld.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

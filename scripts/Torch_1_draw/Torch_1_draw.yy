@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Torch_1_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Torch_1_draw",
+  "parent":{
+    "name":"torch",
+    "path":"folders/Scripts/niao/torch.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

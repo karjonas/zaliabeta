@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Megmat_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Megmat_udp",
+  "parent":{
+    "name":"megmat",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/megmat.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

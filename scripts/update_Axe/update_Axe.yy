@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_Axe",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_Axe",
+  "parent":{
+    "name":"axe",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/axe.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BlockB_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BlockB_update",
+  "parent":{
+    "name":"block",
+    "path":"folders/Scripts/game_object/gob/gob2/block.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

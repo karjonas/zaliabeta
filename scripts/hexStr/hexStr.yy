@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"hexStr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hexStr",
+  "parent":{
+    "name":"other",
+    "path":"folders/Scripts/other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

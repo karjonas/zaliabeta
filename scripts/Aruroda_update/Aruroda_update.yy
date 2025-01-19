@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Aruroda_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Aruroda_update",
+  "parent":{
+    "name":"aruroda",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/aruroda.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

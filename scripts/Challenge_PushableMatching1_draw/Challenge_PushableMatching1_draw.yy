@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Challenge_PushableMatching1_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Challenge_PushableMatching1_draw",
+  "parent":{
+    "name":"various",
+    "path":"folders/Scripts/game_object/goe/challenge/various.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

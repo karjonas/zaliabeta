@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Wheep_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Wheep_draw",
+  "parent":{
+    "name":"wheep",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/wheep.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

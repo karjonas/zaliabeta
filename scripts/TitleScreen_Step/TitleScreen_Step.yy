@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TitleScreen_Step",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TitleScreen_Step",
+  "parent":{
+    "name":"title_screen",
+    "path":"folders/Scripts/rooms/title_screen.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

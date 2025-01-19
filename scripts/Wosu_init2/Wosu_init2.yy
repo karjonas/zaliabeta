@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Wosu_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Wosu_init2",
+  "parent":{
+    "name":"wosu",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/wosu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

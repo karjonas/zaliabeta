@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"obj_start_Step",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"obj_start_Step",
+  "parent":{
+    "name":"obj_start",
+    "path":"folders/Scripts/obj_start.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PauseMenu_Draw_map_Overworld8x8",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PauseMenu_Draw_map_Overworld8x8",
+  "parent":{
+    "name":"pause_menu",
+    "path":"folders/Scripts/gui/pause_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

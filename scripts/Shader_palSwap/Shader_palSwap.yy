@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Shader_palSwap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Shader_palSwap",
+  "parent":{
+    "name":"palette_swap",
+    "path":"folders/Scripts/palette/palette_swap.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

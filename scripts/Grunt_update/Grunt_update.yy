@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Grunt_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Grunt_update",
+  "parent":{
+    "name":"grunt",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/grunt.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

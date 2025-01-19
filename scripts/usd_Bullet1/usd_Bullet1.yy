@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"usd_Bullet1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"usd_Bullet1",
+  "parent":{
+    "name":"bullet",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/bullet.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

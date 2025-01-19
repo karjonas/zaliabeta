@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_bottle_bubbling_frame",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_bottle_bubbling_frame",
+  "parent":{
+    "name":"item",
+    "path":"folders/Scripts/game_object/gob/gob2/item.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

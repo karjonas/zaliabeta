@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"spell_sequence_is_complete",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spell_sequence_is_complete",
+  "parent":{
+    "name":"other",
+    "path":"folders/Scripts/other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

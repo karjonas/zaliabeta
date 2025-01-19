@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_hover_y_adj",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_hover_y_adj",
+  "parent":{
+    "name":"graphics",
+    "path":"folders/Scripts/graphics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"CloudCover1_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CloudCover1_update",
+  "parent":{
+    "name":"cloud",
+    "path":"folders/Scripts/niao/cloud.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

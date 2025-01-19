@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GameObjectB1_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GameObjectB1_init",
+  "parent":{
+    "name":"enemy",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FlowerItemAnim_get_spr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FlowerItemAnim_get_spr",
+  "parent":{
+    "name":"item",
+    "path":"folders/Scripts/game_object/gob/gob2/item.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

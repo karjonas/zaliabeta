@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TorchA_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TorchA_init2",
+  "parent":{
+    "name":"torch_A",
+    "path":"folders/Scripts/game_object/gob/gob2/torch/torch_A.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

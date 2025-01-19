@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dev_start_pc_with",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dev_start_pc_with",
+  "parent":{
+    "name":"dev",
+    "path":"folders/Scripts/dev.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

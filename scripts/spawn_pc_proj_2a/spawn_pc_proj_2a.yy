@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"spawn_pc_proj_2a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spawn_pc_proj_2a",
+  "parent":{
+    "name":"pc_projectile",
+    "path":"folders/Scripts/game_object/goc/pc_projectile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

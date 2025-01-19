@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"area_is_town",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"area_is_town",
+  "parent":{
+    "name":"room",
+    "path":"folders/Scripts/room.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

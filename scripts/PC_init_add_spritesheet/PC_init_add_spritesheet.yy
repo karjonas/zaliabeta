@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PC_init_add_spritesheet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PC_init_add_spritesheet",
+  "parent":{
+    "name":"goa",
+    "path":"folders/Scripts/game_object/goa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

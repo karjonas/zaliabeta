@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Spawner_Drop_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Spawner_Drop_udp",
+  "parent":{
+    "name":"drop_spawner",
+    "path":"folders/Scripts/game_object/gob/gob2/spawner/drop_spawner.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

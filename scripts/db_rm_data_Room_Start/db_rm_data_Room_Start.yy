@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"db_rm_data_Room_Start",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"db_rm_data_Room_Start",
+  "parent":{
+    "name":"room",
+    "path":"folders/Scripts/debug/room.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

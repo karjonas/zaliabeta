@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Gellzem_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Gellzem_udp",
+  "parent":{
+    "name":"gellzem",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/gellzem.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

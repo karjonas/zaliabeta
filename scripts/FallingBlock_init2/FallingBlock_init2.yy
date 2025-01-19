@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FallingBlock_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FallingBlock_init2",
+  "parent":{
+    "name":"block",
+    "path":"folders/Scripts/game_object/gob/gob2/block.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

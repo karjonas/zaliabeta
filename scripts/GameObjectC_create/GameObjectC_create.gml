@@ -1,0 +1,6 @@
+function GameObjectC_create() {
+
+
+
+
+}

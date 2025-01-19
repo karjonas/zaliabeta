@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Moby_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Moby_udp",
+  "parent":{
+    "name":"moby",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/moby.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

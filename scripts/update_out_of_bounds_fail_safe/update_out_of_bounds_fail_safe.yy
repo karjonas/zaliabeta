@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_out_of_bounds_fail_safe",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_out_of_bounds_fail_safe",
+  "parent":{
+    "name":"Game",
+    "path":"folders/Scripts/Game.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

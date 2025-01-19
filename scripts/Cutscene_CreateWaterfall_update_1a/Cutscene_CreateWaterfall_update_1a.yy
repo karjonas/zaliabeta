@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Cutscene_CreateWaterfall_update_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Cutscene_CreateWaterfall_update_1a",
+  "parent":{
+    "name":"cutscene_create_waterfall",
+    "path":"folders/Scripts/game_object/gof/cutscene/cutscene_create_waterfall.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

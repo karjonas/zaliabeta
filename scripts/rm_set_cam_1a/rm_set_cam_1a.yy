@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"rm_set_cam_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rm_set_cam_1a",
+  "parent":{
+    "name":"view",
+    "path":"folders/Scripts/view.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

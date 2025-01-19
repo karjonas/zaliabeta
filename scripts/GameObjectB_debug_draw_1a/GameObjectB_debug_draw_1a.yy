@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GameObjectB_debug_draw_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GameObjectB_debug_draw_1a",
+  "parent":{
+    "name":"game_object",
+    "path":"folders/Scripts/dev/game_object.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

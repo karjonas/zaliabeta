@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tile_delete_all",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tile_delete_all",
+  "parent":{
+    "name":"tile",
+    "path":"folders/Scripts/tile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

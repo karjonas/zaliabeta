@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_Z1_GameClear",
+  "audioGroupId":{
+    "name":"audiogroup_mus",
+    "path":"audiogroups/audiogroup_mus",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.0,
+  "name":"mus_Z1_GameClear",
+  "parent":{
+    "name":"TheLegendOfZelda1",
+    "path":"folders/Sounds/TheLegendOfZelda1.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_Z1_GameClear",
+  "type":0,
+  "volume":1.0,
+}

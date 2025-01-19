@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"WaterSparkle_refresh",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"WaterSparkle_refresh",
+  "parent":{
+    "name":"overworld",
+    "path":"folders/Scripts/overworld.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"db_pbag_rising_xp_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"db_pbag_rising_xp_1a",
+  "parent":{
+    "name":"various",
+    "path":"folders/Scripts/debug/various.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

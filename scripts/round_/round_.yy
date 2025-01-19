@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"round_",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"round_",
+  "parent":{
+    "name":"math",
+    "path":"folders/Scripts/math.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

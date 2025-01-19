@@ -1,0 +1,2 @@
+GameObjectC_draw();
+

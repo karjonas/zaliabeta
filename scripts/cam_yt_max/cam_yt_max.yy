@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cam_yt_max",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cam_yt_max",
+  "parent":{
+    "name":"view",
+    "path":"folders/Scripts/view.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

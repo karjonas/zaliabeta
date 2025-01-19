@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Rando_can_cross_SariaBridge",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Rando_can_cross_SariaBridge",
+  "parent":{
+    "name":"rando",
+    "path":"folders/Scripts/rando.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

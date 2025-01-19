@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"colliding_FireRope",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"colliding_FireRope",
+  "parent":{
+    "name":"fire_rope",
+    "path":"folders/Scripts/game_object/gob/gob2/fire_rope.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

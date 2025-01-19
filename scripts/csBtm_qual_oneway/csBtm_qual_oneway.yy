@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"csBtm_qual_oneway",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"csBtm_qual_oneway",
+  "parent":{
+    "name":"cs",
+    "path":"folders/Scripts/collision/cs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

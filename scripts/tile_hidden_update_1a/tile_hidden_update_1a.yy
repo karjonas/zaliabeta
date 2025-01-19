@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tile_hidden_update_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tile_hidden_update_1a",
+  "parent":{
+    "name":"tile",
+    "path":"folders/Scripts/tile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

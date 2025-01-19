@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GameObject_create_2a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GameObject_create_2a",
+  "parent":{
+    "name":"go",
+    "path":"folders/Scripts/game_object/go.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

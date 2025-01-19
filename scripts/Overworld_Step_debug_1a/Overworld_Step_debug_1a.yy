@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Overworld_Step_debug_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Overworld_Step_debug_1a",
+  "parent":{
+    "name":"overworld",
+    "path":"folders/Scripts/debug/overworld.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

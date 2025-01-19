@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GO_pal_qual_lit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GO_pal_qual_lit",
+  "parent":{
+    "name":"go",
+    "path":"folders/Scripts/game_object/go.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

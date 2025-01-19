@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"usd_Axe",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"usd_Axe",
+  "parent":{
+    "name":"axe",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/axe.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

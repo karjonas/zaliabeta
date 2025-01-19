@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PC_update_shield_hb",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PC_update_shield_hb",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"room_set_view_",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"room_set_view_",
+  "parent":{
+    "name":"view",
+    "path":"folders/Scripts/view.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

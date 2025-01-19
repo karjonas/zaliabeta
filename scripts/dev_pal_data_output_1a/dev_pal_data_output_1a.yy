@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dev_pal_data_output_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dev_pal_data_output_1a",
+  "parent":{
+    "name":"palette",
+    "path":"folders/Scripts/debug/palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

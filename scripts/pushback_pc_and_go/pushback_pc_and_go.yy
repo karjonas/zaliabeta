@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pushback_pc_and_go",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pushback_pc_and_go",
+  "parent":{
+    "name":"go",
+    "path":"folders/Scripts/game_object/go.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

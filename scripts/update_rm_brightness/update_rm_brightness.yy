@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_rm_brightness",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_rm_brightness",
+  "parent":{
+    "name":"palette",
+    "path":"folders/Scripts/palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

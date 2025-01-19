@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"byte_to_int",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"byte_to_int",
+  "parent":{
+    "name":"math",
+    "path":"folders/Scripts/math.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

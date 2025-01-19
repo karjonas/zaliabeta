@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"palSpr_changeColors",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"palSpr_changeColors",
+  "parent":{
+    "name":"palette",
+    "path":"folders/Scripts/palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

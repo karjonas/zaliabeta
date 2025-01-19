@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Leever_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Leever_update",
+  "parent":{
+    "name":"leever",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/leever.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

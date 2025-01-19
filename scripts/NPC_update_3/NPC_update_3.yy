@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"NPC_update_3",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"NPC_update_3",
+  "parent":{
+    "name":"npc",
+    "path":"folders/Scripts/game_object/gob/gob2/npc.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

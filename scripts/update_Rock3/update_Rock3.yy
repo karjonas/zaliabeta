@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_Rock3",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_Rock3",
+  "parent":{
+    "name":"rock",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/rock.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

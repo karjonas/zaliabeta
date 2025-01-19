@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PushableRefresher_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PushableRefresher_draw",
+  "parent":{
+    "name":"pushable",
+    "path":"folders/Scripts/game_object/gob/gob2/pushable.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

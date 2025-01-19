@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"spawn_boss_key",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spawn_boss_key",
+  "parent":{
+    "name":"item",
+    "path":"folders/Scripts/game_object/gob/gob2/item.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

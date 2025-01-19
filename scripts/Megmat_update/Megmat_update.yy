@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Megmat_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Megmat_update",
+  "parent":{
+    "name":"megmat",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/megmat.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

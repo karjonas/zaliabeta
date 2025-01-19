@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Projectile_step",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Projectile_step",
+  "parent":{
+    "name":"projectile_hostile",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

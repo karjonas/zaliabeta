@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"solid_clip_correction",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"solid_clip_correction",
+  "parent":{
+    "name":"go",
+    "path":"folders/Scripts/game_object/go.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

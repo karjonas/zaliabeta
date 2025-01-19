@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FileSelect_Create_Rando",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FileSelect_Create_Rando",
+  "parent":{
+    "name":"file_select",
+    "path":"folders/Scripts/rooms/file_select.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

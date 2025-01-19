@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"usd_Boomerang",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"usd_Boomerang",
+  "parent":{
+    "name":"boomerang",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/boomerang.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Ganon3_skull_update_3a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Ganon3_skull_update_3a",
+  "parent":{
+    "name":"ganon",
+    "path":"folders/Scripts/game_object/gob/gob1/boss/ganon.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

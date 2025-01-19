@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Girubokku_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Girubokku_init2",
+  "parent":{
+    "name":"girubokku",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/girubokku.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GameObjectMgr_Room_Start",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GameObjectMgr_Room_Start",
+  "parent":{
+    "name":"game_object_mgr",
+    "path":"folders/Scripts/game_object_mgr.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

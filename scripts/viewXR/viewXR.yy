@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"viewXR",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"viewXR",
+  "parent":{
+    "name":"view",
+    "path":"folders/Scripts/view.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

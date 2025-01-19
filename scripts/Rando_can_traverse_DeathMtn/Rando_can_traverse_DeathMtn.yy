@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Rando_can_traverse_DeathMtn",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Rando_can_traverse_DeathMtn",
+  "parent":{
+    "name":"rando",
+    "path":"folders/Scripts/rando.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pc_collide_exit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pc_collide_exit",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

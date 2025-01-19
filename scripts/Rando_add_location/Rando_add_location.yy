@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Rando_add_location",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Rando_add_location",
+  "parent":{
+    "name":"rando",
+    "path":"folders/Scripts/rando.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

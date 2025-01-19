@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dev_automateRoomData1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dev_automateRoomData1",
+  "parent":{
+    "name":"room",
+    "path":"folders/Scripts/debug/room.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

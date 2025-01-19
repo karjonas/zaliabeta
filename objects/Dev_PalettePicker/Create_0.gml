@@ -1,0 +1,2 @@
+PalettePicker_Create();
+

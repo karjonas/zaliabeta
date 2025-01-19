@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Elevator_end",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Elevator_end",
+  "parent":{
+    "name":"elevator",
+    "path":"folders/Scripts/game_object/gob/gob2/elevator.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

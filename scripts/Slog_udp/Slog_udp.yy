@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Slog_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Slog_udp",
+  "parent":{
+    "name":"slog",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/slog.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

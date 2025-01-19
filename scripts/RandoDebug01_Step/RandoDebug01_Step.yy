@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"RandoDebug01_Step",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RandoDebug01_Step",
+  "parent":{
+    "name":"rando_debug",
+    "path":"folders/Scripts/rando/rando_debug.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

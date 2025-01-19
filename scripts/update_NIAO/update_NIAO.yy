@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_NIAO",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_NIAO",
+  "parent":{
+    "name":"niao",
+    "path":"folders/Scripts/niao.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

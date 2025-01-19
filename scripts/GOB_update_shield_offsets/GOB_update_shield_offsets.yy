@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GOB_update_shield_offsets",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GOB_update_shield_offsets",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bitNum",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bitNum",
+  "parent":{
+    "name":"math",
+    "path":"folders/Scripts/math.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

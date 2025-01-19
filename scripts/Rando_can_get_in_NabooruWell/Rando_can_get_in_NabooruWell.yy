@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Rando_can_get_in_NabooruWell",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Rando_can_get_in_NabooruWell",
+  "parent":{
+    "name":"rando",
+    "path":"folders/Scripts/rando.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

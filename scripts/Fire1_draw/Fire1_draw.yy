@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Fire1_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Fire1_draw",
+  "parent":{
+    "name":"fire",
+    "path":"folders/Scripts/niao/fire.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

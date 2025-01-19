@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Fokka_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Fokka_draw",
+  "parent":{
+    "name":"fokka",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/fokka.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Girubokku_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Girubokku_udp",
+  "parent":{
+    "name":"girubokku",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/girubokku.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

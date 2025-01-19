@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Moblin_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Moblin_init2",
+  "parent":{
+    "name":"moblin",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/moblin.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

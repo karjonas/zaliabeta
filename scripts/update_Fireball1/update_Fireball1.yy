@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_Fireball1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_Fireball1",
+  "parent":{
+    "name":"fireball",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/fireball.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

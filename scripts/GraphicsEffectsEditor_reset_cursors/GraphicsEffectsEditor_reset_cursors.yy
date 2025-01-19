@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GraphicsEffectsEditor_reset_cursors",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GraphicsEffectsEditor_reset_cursors",
+  "parent":{
+    "name":"GraphicsEffectsEditor",
+    "path":"folders/Scripts/graphics/GraphicsEffectsEditor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

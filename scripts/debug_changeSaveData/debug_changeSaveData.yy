@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"debug_changeSaveData",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"debug_changeSaveData",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

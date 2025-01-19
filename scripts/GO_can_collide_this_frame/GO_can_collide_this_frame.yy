@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GO_can_collide_this_frame",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GO_can_collide_this_frame",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

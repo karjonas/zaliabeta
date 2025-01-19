@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Rando_can_get_from_RoyalCemeteryToZ1Area",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Rando_can_get_from_RoyalCemeteryToZ1Area",
+  "parent":{
+    "name":"rando",
+    "path":"folders/Scripts/rando.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

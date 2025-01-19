@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"db_GO_create_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"db_GO_create_1a",
+  "parent":{
+    "name":"spawn",
+    "path":"folders/Scripts/debug/spawn.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

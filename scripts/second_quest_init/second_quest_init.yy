@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"second_quest_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"second_quest_init",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

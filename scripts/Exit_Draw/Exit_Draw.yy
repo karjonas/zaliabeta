@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Exit_Draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Exit_Draw",
+  "parent":{
+    "name":"exit",
+    "path":"folders/Scripts/exit.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"set_save_props_def",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_save_props_def",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

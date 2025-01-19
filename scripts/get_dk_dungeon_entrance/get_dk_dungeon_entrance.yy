@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_dk_dungeon_entrance",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_dk_dungeon_entrance",
+  "parent":{
+    "name":"room",
+    "path":"folders/Scripts/room.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

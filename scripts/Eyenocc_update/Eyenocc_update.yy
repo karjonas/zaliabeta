@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Eyenocc_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Eyenocc_update",
+  "parent":{
+    "name":"eyenocc",
+    "path":"folders/Scripts/game_object/gob/gob2/eyenocc.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

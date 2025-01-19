@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_dungeon_num",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_dungeon_num",
+  "parent":{
+    "name":"room",
+    "path":"folders/Scripts/room.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

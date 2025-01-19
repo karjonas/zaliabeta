@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Audio_Room_Start",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Audio_Room_Start",
+  "parent":{
+    "name":"event",
+    "path":"folders/Scripts/sound/event.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

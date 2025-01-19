@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_key_count_acquired",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_key_count_acquired",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_Broomietunes_darklink_Intro",
+  "audioGroupId":{
+    "name":"audiogroup_mus",
+    "path":"audiogroups/audiogroup_mus",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.0,
+  "name":"mus_Broomietunes_darklink_Intro",
+  "parent":{
+    "name":"Broomietunes",
+    "path":"folders/Sounds/Broomietunes.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_Broomietunes_darklink_Intro",
+  "type":0,
+  "volume":1.0,
+}

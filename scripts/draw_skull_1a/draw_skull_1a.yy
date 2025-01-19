@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_skull_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_skull_1a",
+  "parent":{
+    "name":"graphics",
+    "path":"folders/Scripts/graphics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

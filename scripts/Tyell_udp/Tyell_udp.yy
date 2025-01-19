@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Tyell_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Tyell_udp",
+  "parent":{
+    "name":"tyell",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/tyell.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

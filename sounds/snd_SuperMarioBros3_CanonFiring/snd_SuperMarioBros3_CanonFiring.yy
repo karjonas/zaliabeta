@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_SuperMarioBros3_CanonFiring",
+  "audioGroupId":{
+    "name":"audiogroup_snd",
+    "path":"audiogroups/audiogroup_snd",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.0,
+  "name":"snd_SuperMarioBros3_CanonFiring",
+  "parent":{
+    "name":"SuperMarioBros3",
+    "path":"folders/Sounds/SuperMarioBros3.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_SuperMarioBros3_CanonFiring",
+  "type":0,
+  "volume":1.0,
+}

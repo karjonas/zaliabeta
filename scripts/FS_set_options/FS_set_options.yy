@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FS_set_options",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FS_set_options",
+  "parent":{
+    "name":"file_select",
+    "path":"folders/Scripts/rooms/file_select.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

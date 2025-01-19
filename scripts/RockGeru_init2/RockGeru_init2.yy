@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"RockGeru_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RockGeru_init2",
+  "parent":{
+    "name":"geru",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/geru.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

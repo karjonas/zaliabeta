@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"OptionsMenu_Game_End",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"OptionsMenu_Game_End",
+  "parent":{
+    "name":"options_menu",
+    "path":"folders/Scripts/gui/options_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

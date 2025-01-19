@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"spell_last_used",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spell_last_used",
+  "parent":{
+    "name":"Game",
+    "path":"folders/Scripts/Game.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

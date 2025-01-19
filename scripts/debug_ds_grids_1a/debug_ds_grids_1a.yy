@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"debug_ds_grids_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"debug_ds_grids_1a",
+  "parent":{
+    "name":"various",
+    "path":"folders/Scripts/debug/various.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

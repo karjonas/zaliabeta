@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GOB_update_2a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GOB_update_2a",
+  "parent":{
+    "name":"gob",
+    "path":"folders/Scripts/game_object/gob.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

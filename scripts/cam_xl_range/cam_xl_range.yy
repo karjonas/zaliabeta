@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cam_xl_range",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cam_xl_range",
+  "parent":{
+    "name":"view",
+    "path":"folders/Scripts/view.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

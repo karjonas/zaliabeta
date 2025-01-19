@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"usd_SoundWave",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"usd_SoundWave",
+  "parent":{
+    "name":"sound_wave",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/sound_wave.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

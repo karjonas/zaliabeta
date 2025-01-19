@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Eyenocc_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Eyenocc_draw",
+  "parent":{
+    "name":"eyenocc",
+    "path":"folders/Scripts/game_object/gob/gob2/eyenocc.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

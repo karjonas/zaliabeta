@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"gui_tmr_cursor_v",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gui_tmr_cursor_v",
+  "parent":{
+    "name":"gui",
+    "path":"folders/Scripts/gui.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

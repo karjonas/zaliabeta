@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Snaraa_update_4",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Snaraa_update_4",
+  "parent":{
+    "name":"snaraa",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/snaraa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

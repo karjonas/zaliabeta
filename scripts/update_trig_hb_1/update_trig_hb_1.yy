@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_trig_hb_1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_trig_hb_1",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

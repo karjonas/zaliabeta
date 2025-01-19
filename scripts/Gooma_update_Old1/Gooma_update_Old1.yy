@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Gooma_update_Old1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Gooma_update_Old1",
+  "parent":{
+    "name":"gooma",
+    "path":"folders/Scripts/game_object/gob/gob1/boss/gooma.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

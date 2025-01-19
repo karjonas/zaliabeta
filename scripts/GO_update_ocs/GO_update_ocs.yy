@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GO_update_ocs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GO_update_ocs",
+  "parent":{
+    "name":"ocs",
+    "path":"folders/Scripts/collision/ocs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

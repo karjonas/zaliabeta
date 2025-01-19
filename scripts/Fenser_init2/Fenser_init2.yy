@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Fenser_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Fenser_init2",
+  "parent":{
+    "name":"fenser",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/fenser.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

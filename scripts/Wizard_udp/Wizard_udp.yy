@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Wizard_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Wizard_udp",
+  "parent":{
+    "name":"wizard",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/wizard.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Spawner_NPC_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Spawner_NPC_init2",
+  "parent":{
+    "name":"npc_spawner",
+    "path":"folders/Scripts/game_object/gob/gob2/spawner/npc_spawner.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Horsehead_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Horsehead_draw",
+  "parent":{
+    "name":"horsehead",
+    "path":"folders/Scripts/game_object/gob/gob1/boss/horsehead.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

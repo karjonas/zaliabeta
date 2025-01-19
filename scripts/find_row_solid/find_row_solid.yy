@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"find_row_solid",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"find_row_solid",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Bot_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Bot_draw",
+  "parent":{
+    "name":"bot",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/bot.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

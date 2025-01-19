@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"csLftColliding",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"csLftColliding",
+  "parent":{
+    "name":"cs",
+    "path":"folders/Scripts/collision/cs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

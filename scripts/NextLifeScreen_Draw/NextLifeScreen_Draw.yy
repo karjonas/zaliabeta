@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"NextLifeScreen_Draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"NextLifeScreen_Draw",
+  "parent":{
+    "name":"next_life_screen",
+    "path":"folders/Scripts/rooms/next_life_screen.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

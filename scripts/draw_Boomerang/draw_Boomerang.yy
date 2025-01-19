@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_Boomerang",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_Boomerang",
+  "parent":{
+    "name":"boomerang",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/boomerang.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

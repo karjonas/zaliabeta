@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_stat_max",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_stat_max",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Geru_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Geru_init2",
+  "parent":{
+    "name":"geru",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/geru.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

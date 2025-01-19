@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Jackolantern1_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Jackolantern1_init",
+  "parent":{
+    "name":"jackolantern",
+    "path":"folders/Scripts/niao/jackolantern.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_body_hb_data",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_body_hb_data",
+  "parent":{
+    "name":"init",
+    "path":"folders/Scripts/Game/init.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

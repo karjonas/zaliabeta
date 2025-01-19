@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Mau_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Mau_udp",
+  "parent":{
+    "name":"mau",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/mau.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

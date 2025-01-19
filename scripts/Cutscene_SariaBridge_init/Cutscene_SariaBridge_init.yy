@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Cutscene_SariaBridge_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Cutscene_SariaBridge_init",
+  "parent":{
+    "name":"cutscene_build_bridge",
+    "path":"folders/Scripts/game_object/gof/cutscene/cutscene_build_bridge.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

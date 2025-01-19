@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Barba_refresh_Attack1_tokens",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Barba_refresh_Attack1_tokens",
+  "parent":{
+    "name":"barba",
+    "path":"folders/Scripts/game_object/gob/gob1/boss/barba.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

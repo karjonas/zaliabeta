@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_go_spawn_1d",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_go_spawn_1d",
+  "parent":{
+    "name":"game_object_mgr",
+    "path":"folders/Scripts/game_object_mgr.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

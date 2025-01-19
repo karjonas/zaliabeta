@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Leever_in_ground_y",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Leever_in_ground_y",
+  "parent":{
+    "name":"leever",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/leever.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"usd_Drop",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"usd_Drop",
+  "parent":{
+    "name":"drop",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/drop.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

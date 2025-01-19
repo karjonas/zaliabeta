@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Cutscene_EnterFromChimney_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Cutscene_EnterFromChimney_update",
+  "parent":{
+    "name":"cutscene_enter_from_chimney",
+    "path":"folders/Scripts/game_object/gof/cutscene/cutscene_enter_from_chimney.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

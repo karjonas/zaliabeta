@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_Castlevania2_Night_Body",
+  "audioGroupId":{
+    "name":"audiogroup_mus",
+    "path":"audiogroups/audiogroup_mus",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.0,
+  "name":"mus_Castlevania2_Night_Body",
+  "parent":{
+    "name":"Castlevania",
+    "path":"folders/Sounds/Castlevania.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_Castlevania2_Night_Body",
+  "type":0,
+  "volume":1.0,
+}

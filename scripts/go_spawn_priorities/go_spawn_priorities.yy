@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"go_spawn_priorities",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"go_spawn_priorities",
+  "parent":{
+    "name":"game_object_mgr",
+    "path":"folders/Scripts/game_object_mgr.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

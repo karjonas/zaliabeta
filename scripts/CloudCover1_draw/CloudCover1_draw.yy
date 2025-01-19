@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"CloudCover1_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CloudCover1_draw",
+  "parent":{
+    "name":"cloud",
+    "path":"folders/Scripts/niao/cloud.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

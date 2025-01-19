@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BurnableMgr_Draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BurnableMgr_Draw",
+  "parent":{
+    "name":"burnable",
+    "path":"folders/Scripts/game_object/god/burnable.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

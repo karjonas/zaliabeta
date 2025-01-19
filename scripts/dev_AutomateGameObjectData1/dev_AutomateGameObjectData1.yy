@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dev_AutomateGameObjectData1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dev_AutomateGameObjectData1",
+  "parent":{
+    "name":"various",
+    "path":"folders/Scripts/debug/various.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

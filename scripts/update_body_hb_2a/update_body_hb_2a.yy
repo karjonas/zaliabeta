@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_body_hb_2a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_body_hb_2a",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

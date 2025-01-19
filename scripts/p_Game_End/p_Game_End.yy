@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"p_Game_End",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"p_Game_End",
+  "parent":{
+    "name":"palette",
+    "path":"folders/Scripts/palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"f_Game_End",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"f_Game_End",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

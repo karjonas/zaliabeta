@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Tyell_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Tyell_draw",
+  "parent":{
+    "name":"tyell",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/tyell.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

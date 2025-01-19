@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TargetA_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TargetA_udp",
+  "parent":{
+    "name":"target",
+    "path":"folders/Scripts/game_object/gob/gob2/target.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

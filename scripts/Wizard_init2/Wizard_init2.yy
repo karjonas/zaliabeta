@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Wizard_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Wizard_init2",
+  "parent":{
+    "name":"wizard",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/wizard.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

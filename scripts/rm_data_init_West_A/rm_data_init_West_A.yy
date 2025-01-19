@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"rm_data_init_West_A",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rm_data_init_West_A",
+  "parent":{
+    "name":"room_data",
+    "path":"folders/Scripts/room_data.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

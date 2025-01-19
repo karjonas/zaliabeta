@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"IronKnuckle_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"IronKnuckle_udp",
+  "parent":{
+    "name":"iron_knuckle",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/iron_knuckle.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

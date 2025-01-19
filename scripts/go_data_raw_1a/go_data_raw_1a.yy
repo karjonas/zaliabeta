@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"go_data_raw_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"go_data_raw_1a",
+  "parent":{
+    "name":"game_object_data",
+    "path":"folders/Scripts/game_object/game_object_data.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

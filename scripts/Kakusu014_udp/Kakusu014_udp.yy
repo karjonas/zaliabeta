@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Kakusu014_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Kakusu014_udp",
+  "parent":{
+    "name":"Kakusu_014",
+    "path":"folders/Scripts/game_object/gob/gob1/kakusu/Kakusu_014.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

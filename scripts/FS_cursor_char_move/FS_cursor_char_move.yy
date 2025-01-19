@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FS_cursor_char_move",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FS_cursor_char_move",
+  "parent":{
+    "name":"file_select",
+    "path":"folders/Scripts/rooms/file_select.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

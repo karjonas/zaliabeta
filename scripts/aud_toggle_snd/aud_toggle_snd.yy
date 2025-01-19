@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"aud_toggle_snd",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"aud_toggle_snd",
+  "parent":{
+    "name":"sound",
+    "path":"folders/Scripts/sound.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

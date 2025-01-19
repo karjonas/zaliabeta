@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_pc_skin_palette",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_pc_skin_palette",
+  "parent":{
+    "name":"palette",
+    "path":"folders/Scripts/palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

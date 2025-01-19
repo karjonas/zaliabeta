@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Stalfoon_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Stalfoon_init2",
+  "parent":{
+    "name":"stalfoon",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/stalfoon.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

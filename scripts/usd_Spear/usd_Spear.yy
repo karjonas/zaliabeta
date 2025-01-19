@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"usd_Spear",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"usd_Spear",
+  "parent":{
+    "name":"spear",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/spear.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

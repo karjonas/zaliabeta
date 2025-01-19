@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GraphicsEffectsEditor_update_backout",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GraphicsEffectsEditor_update_backout",
+  "parent":{
+    "name":"GraphicsEffectsEditor",
+    "path":"folders/Scripts/graphics/GraphicsEffectsEditor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

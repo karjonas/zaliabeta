@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_xp_next",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_xp_next",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

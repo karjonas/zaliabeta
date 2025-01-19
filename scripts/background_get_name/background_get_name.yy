@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"background_get_name",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"background_get_name",
+  "parent":{
+    "name":"background",
+    "path":"folders/Scripts/compatibility/background.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

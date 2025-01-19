@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GameObjectB_step2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GameObjectB_step2",
+  "parent":{
+    "name":"gob",
+    "path":"folders/Scripts/game_object/gob.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

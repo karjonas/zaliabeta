@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"p_Room_Start_1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"p_Room_Start_1",
+  "parent":{
+    "name":"palette",
+    "path":"folders/Scripts/palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

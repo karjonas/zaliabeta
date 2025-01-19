@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Cutscene_construct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Cutscene_construct",
+  "parent":{
+    "name":"cutscene",
+    "path":"folders/Scripts/game_object/gof/cutscene.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

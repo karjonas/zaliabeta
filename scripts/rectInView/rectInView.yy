@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"rectInView",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rectInView",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

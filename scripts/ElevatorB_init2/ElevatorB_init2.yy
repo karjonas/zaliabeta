@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ElevatorB_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ElevatorB_init2",
+  "parent":{
+    "name":"elevator",
+    "path":"folders/Scripts/game_object/gob/gob2/elevator.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

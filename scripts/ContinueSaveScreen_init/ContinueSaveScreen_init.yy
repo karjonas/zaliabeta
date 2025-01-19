@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ContinueSaveScreen_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ContinueSaveScreen_init",
+  "parent":{
+    "name":"continue_save",
+    "path":"folders/Scripts/rooms/continue_save.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

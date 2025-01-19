@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GraphicsEffectsEditor_Draw_GUI",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GraphicsEffectsEditor_Draw_GUI",
+  "parent":{
+    "name":"GraphicsEffectsEditor",
+    "path":"folders/Scripts/graphics/GraphicsEffectsEditor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Horsehead_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Horsehead_init2",
+  "parent":{
+    "name":"horsehead",
+    "path":"folders/Scripts/game_object/gob/gob1/boss/horsehead.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"g_Draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"g_Draw",
+  "parent":{
+    "name":"event",
+    "path":"folders/Scripts/Game/event.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

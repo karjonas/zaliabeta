@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"usd_Flame2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"usd_Flame2",
+  "parent":{
+    "name":"flame",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/flame.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

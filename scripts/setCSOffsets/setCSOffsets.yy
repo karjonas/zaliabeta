@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"setCSOffsets",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"setCSOffsets",
+  "parent":{
+    "name":"cs",
+    "path":"folders/Scripts/collision/cs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sign_",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sign_",
+  "parent":{
+    "name":"math",
+    "path":"folders/Scripts/math.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

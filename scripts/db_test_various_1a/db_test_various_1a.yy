@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"db_test_various_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"db_test_various_1a",
+  "parent":{
+    "name":"various",
+    "path":"folders/Scripts/debug/various.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

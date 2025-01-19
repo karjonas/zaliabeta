@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"request_pal_change",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"request_pal_change",
+  "parent":{
+    "name":"palette",
+    "path":"folders/Scripts/palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

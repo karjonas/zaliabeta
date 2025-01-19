@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GOB_body_collide_pc_sword",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GOB_body_collide_pc_sword",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

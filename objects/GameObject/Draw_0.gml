@@ -1,0 +1,2 @@
+GameObject_draw(state);
+

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Atta_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Atta_init2",
+  "parent":{
+    "name":"atta",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/atta.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

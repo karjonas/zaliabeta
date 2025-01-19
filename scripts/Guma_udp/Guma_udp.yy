@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Guma_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Guma_udp",
+  "parent":{
+    "name":"guma",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/guma.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

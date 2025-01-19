@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Bago_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Bago_init2",
+  "parent":{
+    "name":"bago",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/bago.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Thunderbird_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Thunderbird_init2",
+  "parent":{
+    "name":"thunderbird",
+    "path":"folders/Scripts/game_object/gob/gob1/boss/thunderbird.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

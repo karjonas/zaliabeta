@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cont_cnt_mp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cont_cnt_mp",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

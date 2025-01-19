@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dir_to_pc_",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dir_to_pc_",
+  "parent":{
+    "name":"go",
+    "path":"folders/Scripts/game_object/go.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

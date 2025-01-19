@@ -1,0 +1,4 @@
+
+// initScr = init_Fokka;
+
+

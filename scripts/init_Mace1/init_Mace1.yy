@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_Mace1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_Mace1",
+  "parent":{
+    "name":"mace",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/mace.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

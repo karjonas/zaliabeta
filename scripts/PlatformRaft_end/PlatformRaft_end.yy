@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PlatformRaft_end",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PlatformRaft_end",
+  "parent":{
+    "name":"PlatformRaft",
+    "path":"folders/Scripts/game_object/god/platform/PlatformRaft.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_data_town_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_data_town_1a",
+  "parent":{
+    "name":"init",
+    "path":"folders/Scripts/Game/init.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

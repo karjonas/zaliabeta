@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Challenge_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Challenge_create",
+  "parent":{
+    "name":"challenge",
+    "path":"folders/Scripts/game_object/goe/challenge.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

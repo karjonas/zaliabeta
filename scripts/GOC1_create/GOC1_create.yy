@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GOC1_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GOC1_create",
+  "parent":{
+    "name":"projectile_hostile",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

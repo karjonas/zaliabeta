@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_BossExplosion",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_BossExplosion",
+  "parent":{
+    "name":"boss_explosion",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/boss_explosion.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"simulate_position_change",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"simulate_position_change",
+  "parent":{
+    "name":"other",
+    "path":"folders/Scripts/other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

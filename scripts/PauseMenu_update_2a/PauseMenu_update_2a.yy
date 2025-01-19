@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PauseMenu_update_2a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PauseMenu_update_2a",
+  "parent":{
+    "name":"pause_menu",
+    "path":"folders/Scripts/gui/pause_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

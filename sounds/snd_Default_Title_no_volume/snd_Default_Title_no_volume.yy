@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_Default_Title_no_volume",
+  "audioGroupId":{
+    "name":"audiogroup_snd",
+    "path":"audiogroups/audiogroup_snd",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.0,
+  "name":"snd_Default_Title_no_volume",
+  "parent":{
+    "name":"ZeldaII_NES",
+    "path":"folders/Sounds/ZeldaII_NES.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_Default_Title_no_volume",
+  "type":0,
+  "volume":1.0,
+}

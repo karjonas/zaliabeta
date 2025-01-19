@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"set_life_doll_data_to_default",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_life_doll_data_to_default",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

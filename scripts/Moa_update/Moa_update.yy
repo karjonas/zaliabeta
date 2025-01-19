@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Moa_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Moa_update",
+  "parent":{
+    "name":"moa",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/moa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

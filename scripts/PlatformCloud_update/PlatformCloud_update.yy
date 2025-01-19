@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PlatformCloud_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PlatformCloud_update",
+  "parent":{
+    "name":"PlatformCloud",
+    "path":"folders/Scripts/game_object/god/platform/PlatformCloud.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

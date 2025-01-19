@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sbc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sbc",
+  "parent":{
+    "name":"math",
+    "path":"folders/Scripts/math.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

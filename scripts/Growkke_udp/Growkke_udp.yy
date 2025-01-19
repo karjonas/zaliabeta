@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Growkke_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Growkke_udp",
+  "parent":{
+    "name":"growkke",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/growkke.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

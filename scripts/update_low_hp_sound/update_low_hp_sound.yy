@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_low_hp_sound",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_low_hp_sound",
+  "parent":{
+    "name":"sound",
+    "path":"folders/Scripts/sound.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

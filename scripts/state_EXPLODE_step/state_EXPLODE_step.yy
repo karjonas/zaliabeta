@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"state_EXPLODE_step",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"state_EXPLODE_step",
+  "parent":{
+    "name":"go",
+    "path":"folders/Scripts/game_object/go.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

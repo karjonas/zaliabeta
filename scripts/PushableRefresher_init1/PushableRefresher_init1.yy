@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PushableRefresher_init1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PushableRefresher_init1",
+  "parent":{
+    "name":"pushable",
+    "path":"folders/Scripts/game_object/gob/gob2/pushable.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

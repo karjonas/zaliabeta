@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_draw_xy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_draw_xy",
+  "parent":{
+    "name":"go",
+    "path":"folders/Scripts/game_object/go.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

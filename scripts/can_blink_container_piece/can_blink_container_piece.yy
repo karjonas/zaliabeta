@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"can_blink_container_piece",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"can_blink_container_piece",
+  "parent":{
+    "name":"graphics",
+    "path":"folders/Scripts/graphics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

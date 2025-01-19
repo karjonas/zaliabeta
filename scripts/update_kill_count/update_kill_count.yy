@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_kill_count",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_kill_count",
+  "parent":{
+    "name":"gob",
+    "path":"folders/Scripts/game_object/gob.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

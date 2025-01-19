@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"adjust_stat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"adjust_stat",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

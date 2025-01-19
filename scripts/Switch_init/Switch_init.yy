@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Switch_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Switch_init",
+  "parent":{
+    "name":"switch",
+    "path":"folders/Scripts/game_object/gob/gob2/switch.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

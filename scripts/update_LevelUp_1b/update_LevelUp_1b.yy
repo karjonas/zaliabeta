@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_LevelUp_1b",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_LevelUp_1b",
+  "parent":{
+    "name":"level_up_menu",
+    "path":"folders/Scripts/gui/level_up_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

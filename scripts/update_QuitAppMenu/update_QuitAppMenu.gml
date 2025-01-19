@@ -1,0 +1,222 @@
+/// @description  update_QuitAppMenu()
+function update_QuitAppMenu() {
+
+
+	with(g.QUIT_APP_MENU)
+	{   // --------------------------------------------------------------------------------
+	    switch(sub_state)
+	    {   // ---------------------------------------------------------------------------------------------
+	        case sub_state_IDLE_CLOSED:{ // ---------------------------------------------------------------------------------------------
+	        if (timer){timer--; break;}
+        
+	        if (g.gui_state!=g.gui_state_QUIT_APP)
+	        {
+	            if (g.room_type=="A" 
+	            //||  (g.room_type=="C" && !g.overworld.dest_dist) 
+	            ||  room==rmB_Title 
+	            ||  room==rmB_FileSelect )
+	            {
+	                var _qual = Input.GP_Other5_held && Input.GP_Other6_held && Input.Magic_held && Input.Pause_held; // hold trig RGT + hold trig LFT + hold Select + hold Start
+	                if(!_qual 
+	                &&  keyboard_check_pressed(vk_escape) 
+	                && !g.Fullscreen_toggled ) // toggling fullscreen can happen earlier in the frame, window_get_fullscreen() will not be accurate here
+	                {
+	                    with(Dev_PalettePicker) _qual = state!=STATE_PKM1 && state!=STATE_PKM2 && state!=STATE_BGR_COLOR;
+	                }
+                
+	                if (_qual)
+	                {
+	                    if (room==rmB_Title 
+	                    ||  room==rmB_FileSelect )
+	                    {
+	                        game_end(); // Quit app
+	                    }
+	                    else
+	                    {
+	                        QuitAppMenu_trigger_open();
+	                    }
+	                }
+	            }
+	            //if (g.gui_state==g.gui_state_PAUSE)
+            
+	            return false;
+	        }
+	        break;}//case sub_state_IDLE_CLOSED
+        
+        
+        
+        
+        
+	        // ---------------------------------------------------------------------------------------------
+	        case sub_state_OPENING1:{ // ---------------------------------------------------------------------------------------------
+	        if (timer){timer--; break;}
+        
+	        aud_play_sound(get_audio_theme_track(dk_OpenGUI));
+        
+	        timer = 2;
+	        sub_state = sub_state_OPENING_ANIM;
+	        break;}//case sub_state_OPENING1
+        
+        
+        
+        
+        
+	        // ---------------------------------------------------------------------------------------------
+	        case sub_state_OPENING_ANIM:{ // ---------------------------------------------------------------------------------------------
+	        if (timer){timer--; break;}
+        
+	        QuitAppMenu_udp();
+        
+	            anim_frame++;
+	        if (anim_frame==ANIM_FRAMES_DEF)
+	        {
+	            timer = 0;
+	            sub_state = sub_state_OPEN1;
+	        }
+        
+	        break;}//case sub_state_OPENING_ANIM
+        
+        
+        
+        
+        
+	        // ---------------------------------------------------------------------------------------------
+	        case sub_state_OPEN1:{ // ---------------------------------------------------------------------------------------------
+	        if (timer){timer--; break;}
+        
+	        QuitAppMenu_udp();
+        
+	        var _CONFIRM  =(Input.Pause_held && !(Input.heldPrev&Input.S)) 
+	                     || keyboard_check_pressed(vk_enter);
+	        var _CANCEL   = Input.GP_Other1_pressed  // gp2: xbox 'B'
+	                     || keyboard_check_pressed(vk_escape);
+	        if (_CONFIRM 
+	        ||  _CANCEL )
+	        {
+	            if (_CONFIRM 
+	            &&  cursor_option )
+	            {
+	                if (room==rmB_Title 
+	                ||  room==rmB_FileSelect )
+	                {
+	                    game_end(); // Quit app
+	                }
+	                else
+	                {
+	                    anim_frame    = 0;
+	                    cnt_draw_rows = 0;
+	                    cursor_option = 0;
+                    
+	                    with(g.OPTIONS_MENU) sub_state = sub_state_IDLE_CLOSED;
+	                    with(g.OPTIONS_MENU) gui_state_backup = 0;
+	                    gui_state_backup = 0;
+	                    g.gui_state = 0;
+                    
+	                    timer = 0;
+	                    sub_state = sub_state_IDLE_CLOSED;
+                    
+                    
+	                    g.pc.state = g.pc.state_DEAD;
+	                    g.pc.can_draw_self = false;
+                    
+	                    if(!get_saved_value(f.file_num, STR_Rando+STR_Active, false) 
+	                    ||  get_saved_value(f.file_num, STR_Rando+"_UP_A"+STR_XP+"_Penalty", true) )
+	                    {
+	                        f.xp = round(f.xp*g.mod_Gameover_XP_PENALTY);
+	                        f.xp = clamp(f.xp, 0,XP_MAX);
+	                    }
+                    
+	                    f.death_count += lives;
+	                    lives = 0;
+                    
+	                    Audio.mus_rm_body = 0; // Need to do this so ContinueScreen music will play
+	                    room_goto_(rmB_ContinueSave);
+	                }
+                
+	                break;//case sub_state_OPEN1
+	            }
+            
+            
+	            timer = 0;
+	            sub_state = sub_state_CLOSING1; // Start close menu
+	            break;//case sub_state_OPEN1
+	        }
+        
+        
+        
+	        if (abs(bit_dir(gui_tmr_cursor_v()))  // 0,1
+	        ||  Input.Magic_pressed )
+	        {
+	            cursor_option ^= $1;
+	            aud_play_sound(get_audio_theme_track(dk_CursorSpellMenu));
+	            break;//case sub_state_OPEN1
+	        }        
+	        break;}//case sub_state_OPEN1
+        
+        
+        
+        
+        
+	        // ---------------------------------------------------------------------------------------------
+	        case sub_state_CLOSING1:{ // ---------------------------------------------------------------------------------------------
+	        if (timer){timer--; break;}
+        
+	        // Closing menu.
+	        QuitAppMenu_udp();
+        
+	        aud_play_sound(get_audio_theme_track(dk_OpenGUI));
+        
+	        timer = 0;
+	        sub_state = sub_state_CLOSING_ANIM;
+	        break;}//case sub_state_CLOSING1
+        
+        
+        
+        
+        
+	        // ---------------------------------------------------------------------------------------------
+	        case sub_state_CLOSING_ANIM:{ // ---------------------------------------------------------------------------------------------
+	        if (timer){timer--; break;}
+        
+	        if (anim_frame)
+	        {
+	            QuitAppMenu_udp();
+	        }
+	        else
+	        {
+	            timer = 0;
+	            sub_state = sub_state_CLOSING3;
+	        }
+        
+	        anim_frame--;
+	        break;}//case sub_state_CLOSING_ANIM
+        
+        
+        
+        
+        
+	        // ---------------------------------------------------------------------------------------------
+	        case sub_state_CLOSING3:{ // ---------------------------------------------------------------------------------------------
+	        if (timer){timer--; break;}
+        
+	        anim_frame    = 0;
+	        cnt_draw_rows = 0;
+	        cursor_option = 0;
+	        g.gui_state   = gui_state_backup;
+        
+	        timer = 0;
+	        sub_state = sub_state_IDLE_CLOSED;
+	        break;}//case sub_state_CLOSING3
+	    }//switch(sub_state)
+	}//with(g.QUIT_APP_MENU)
+
+
+	return true;
+
+
+
+
+
+
+
+}

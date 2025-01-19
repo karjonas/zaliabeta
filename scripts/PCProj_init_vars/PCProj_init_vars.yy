@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PCProj_init_vars",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PCProj_init_vars",
+  "parent":{
+    "name":"pc_projectile",
+    "path":"folders/Scripts/game_object/goc/pc_projectile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

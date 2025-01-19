@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Ache_update_Old1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Ache_update_Old1",
+  "parent":{
+    "name":"ache",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/ache.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

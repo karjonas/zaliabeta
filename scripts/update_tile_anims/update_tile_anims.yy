@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_tile_anims",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_tile_anims",
+  "parent":{
+    "name":"Game",
+    "path":"folders/Scripts/Game.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

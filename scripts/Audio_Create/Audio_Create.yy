@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Audio_Create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Audio_Create",
+  "parent":{
+    "name":"event",
+    "path":"folders/Scripts/sound/event.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

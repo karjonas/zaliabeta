@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DeathScreen_Create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DeathScreen_Create",
+  "parent":{
+    "name":"death_screen",
+    "path":"folders/Scripts/rooms/death_screen.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Boon_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Boon_draw",
+  "parent":{
+    "name":"boon",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/boon.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

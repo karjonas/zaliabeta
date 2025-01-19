@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Overworld_tile_change_2a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Overworld_tile_change_2a",
+  "parent":{
+    "name":"overworld",
+    "path":"folders/Scripts/overworld.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

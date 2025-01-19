@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dev_randomize_palette_shadow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dev_randomize_palette_shadow",
+  "parent":{
+    "name":"Dev_Palette",
+    "path":"folders/Scripts/dev/Dev_Palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Stallakk_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Stallakk_init2",
+  "parent":{
+    "name":"stallakk",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/stallakk.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

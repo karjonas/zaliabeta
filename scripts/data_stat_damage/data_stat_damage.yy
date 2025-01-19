@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"data_stat_damage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"data_stat_damage",
+  "parent":{
+    "name":"init",
+    "path":"folders/Scripts/Game/init.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PC_draw_scs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PC_draw_scs",
+  "parent":{
+    "name":"game_object",
+    "path":"folders/Scripts/dev/game_object.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

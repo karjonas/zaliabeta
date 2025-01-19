@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"g_Step_A1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"g_Step_A1",
+  "parent":{
+    "name":"event",
+    "path":"folders/Scripts/Game/event.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

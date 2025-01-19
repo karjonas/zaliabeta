@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Fountain_1_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Fountain_1_draw",
+  "parent":{
+    "name":"fountain",
+    "path":"folders/Scripts/niao/fountain.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

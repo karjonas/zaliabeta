@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Carock_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Carock_udp",
+  "parent":{
+    "name":"carock",
+    "path":"folders/Scripts/game_object/gob/gob1/boss/carock.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PC_draw_get_cucco_rot",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PC_draw_get_cucco_rot",
+  "parent":{
+    "name":"goa",
+    "path":"folders/Scripts/game_object/goa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_GameObjectMgr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_GameObjectMgr",
+  "parent":{
+    "name":"game_object_mgr",
+    "path":"folders/Scripts/game_object_mgr.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

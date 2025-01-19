@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"walk_pc_to_x",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"walk_pc_to_x",
+  "parent":{
+    "name":"goa",
+    "path":"folders/Scripts/game_object/goa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

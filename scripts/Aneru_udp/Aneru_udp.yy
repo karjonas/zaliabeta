@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Aneru_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Aneru_udp",
+  "parent":{
+    "name":"aneru",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/aneru.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

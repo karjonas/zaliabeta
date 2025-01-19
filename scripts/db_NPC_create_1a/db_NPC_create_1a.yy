@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"db_NPC_create_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"db_NPC_create_1a",
+  "parent":{
+    "name":"npc",
+    "path":"folders/Scripts/debug/npc.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"window_get_scale",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"window_get_scale",
+  "parent":{
+    "name":"view",
+    "path":"folders/Scripts/view.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

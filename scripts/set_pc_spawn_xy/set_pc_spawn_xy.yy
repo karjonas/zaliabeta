@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"set_pc_spawn_xy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_pc_spawn_xy",
+  "parent":{
+    "name":"goa",
+    "path":"folders/Scripts/game_object/goa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

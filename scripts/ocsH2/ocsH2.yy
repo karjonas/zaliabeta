@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ocsH2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ocsH2",
+  "parent":{
+    "name":"ocs",
+    "path":"folders/Scripts/collision/ocs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

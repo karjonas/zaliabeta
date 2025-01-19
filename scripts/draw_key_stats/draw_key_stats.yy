@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_key_stats",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_key_stats",
+  "parent":{
+    "name":"draw",
+    "path":"folders/Scripts/draw.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scene_enter_add_tiles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scene_enter_add_tiles",
+  "parent":{
+    "name":"tile",
+    "path":"folders/Scripts/tile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

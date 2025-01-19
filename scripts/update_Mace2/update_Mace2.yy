@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_Mace2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_Mace2",
+  "parent":{
+    "name":"mace",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/mace.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

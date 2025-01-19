@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_NikoTengoku_InputLetter",
+  "audioGroupId":{
+    "name":"audiogroup_snd",
+    "path":"audiogroups/audiogroup_snd",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.0,
+  "name":"snd_NikoTengoku_InputLetter",
+  "parent":{
+    "name":"NikoTengoku",
+    "path":"folders/Sounds/NikoTengoku.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_NikoTengoku_InputLetter",
+  "type":1,
+  "volume":1.0,
+}

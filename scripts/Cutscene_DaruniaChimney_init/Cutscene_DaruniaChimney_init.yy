@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Cutscene_DaruniaChimney_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Cutscene_DaruniaChimney_init",
+  "parent":{
+    "name":"cutscene_enter_from_chimney",
+    "path":"folders/Scripts/game_object/gof/cutscene/cutscene_enter_from_chimney.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

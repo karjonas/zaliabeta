@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_RenderFrameDelay_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_RenderFrameDelay_state",
+  "parent":{
+    "name":"dev",
+    "path":"folders/Scripts/dev.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

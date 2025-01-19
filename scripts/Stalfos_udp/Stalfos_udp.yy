@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Stalfos_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Stalfos_udp",
+  "parent":{
+    "name":"stalfos",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/stalfos.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

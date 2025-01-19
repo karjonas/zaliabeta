@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"new_quest_init_puzzles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"new_quest_init_puzzles",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Spawner_Moby_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Spawner_Moby_update",
+  "parent":{
+    "name":"moby_spawner",
+    "path":"folders/Scripts/game_object/gob/gob2/spawner/moby_spawner.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

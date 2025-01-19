@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SpikeTrap_out_of_bounds",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SpikeTrap_out_of_bounds",
+  "parent":{
+    "name":"spike_trap",
+    "path":"folders/Scripts/game_object/gob/gob2/spike_trap.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"debug_list_rms_using_permut_ts",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"debug_list_rms_using_permut_ts",
+  "parent":{
+    "name":"tile",
+    "path":"folders/Scripts/debug/tile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Pushable_end",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Pushable_end",
+  "parent":{
+    "name":"pushable",
+    "path":"folders/Scripts/game_object/gob/gob2/pushable.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

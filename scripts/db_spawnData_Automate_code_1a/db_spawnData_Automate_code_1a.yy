@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"db_spawnData_Automate_code_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"db_spawnData_Automate_code_1a",
+  "parent":{
+    "name":"spawn",
+    "path":"folders/Scripts/debug/spawn.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

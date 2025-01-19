@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Challenge_Secret01_init_2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Challenge_Secret01_init_2",
+  "parent":{
+    "name":"various",
+    "path":"folders/Scripts/game_object/goe/challenge/various.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

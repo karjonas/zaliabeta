@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Cutscene_FloorTrap_1_update_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Cutscene_FloorTrap_1_update_1a",
+  "parent":{
+    "name":"cutscene_floortrap",
+    "path":"folders/Scripts/game_object/gof/cutscene/cutscene_floortrap.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

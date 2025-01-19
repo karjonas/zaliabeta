@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"RebonackA_update_hover",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RebonackA_update_hover",
+  "parent":{
+    "name":"rebonack",
+    "path":"folders/Scripts/game_object/gob/gob1/boss/rebonack.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

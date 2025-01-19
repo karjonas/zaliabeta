@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"find_solid_point",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"find_solid_point",
+  "parent":{
+    "name":"collision",
+    "path":"folders/Scripts/collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

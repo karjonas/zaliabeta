@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_cs_points_data",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_cs_points_data",
+  "parent":{
+    "name":"init",
+    "path":"folders/Scripts/Game/init.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

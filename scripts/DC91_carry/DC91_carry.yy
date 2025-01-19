@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DC91_carry",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DC91_carry",
+  "parent":{
+    "name":"go",
+    "path":"folders/Scripts/game_object/go.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

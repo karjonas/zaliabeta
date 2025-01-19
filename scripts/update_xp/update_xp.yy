@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_xp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_xp",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

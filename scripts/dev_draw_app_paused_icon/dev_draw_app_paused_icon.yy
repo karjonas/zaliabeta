@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dev_draw_app_paused_icon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dev_draw_app_paused_icon",
+  "parent":{
+    "name":"dev",
+    "path":"folders/Scripts/dev.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

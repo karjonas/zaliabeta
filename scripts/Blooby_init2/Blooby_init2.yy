@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Blooby_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Blooby_init2",
+  "parent":{
+    "name":"blooby",
+    "path":"folders/Scripts/game_object/gob/gob2/blooby.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"in_despawn_dist",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"in_despawn_dist",
+  "parent":{
+    "name":"go",
+    "path":"folders/Scripts/game_object/go.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

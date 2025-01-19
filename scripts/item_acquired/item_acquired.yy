@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"item_acquired",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"item_acquired",
+  "parent":{
+    "name":"item",
+    "path":"folders/Scripts/game_object/gob/gob2/item.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

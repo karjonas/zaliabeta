@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"drawPointCross",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawPointCross",
+  "parent":{
+    "name":"draw",
+    "path":"folders/Scripts/draw.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GO_change_sprite_index",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GO_change_sprite_index",
+  "parent":{
+    "name":"go",
+    "path":"folders/Scripts/game_object/go.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

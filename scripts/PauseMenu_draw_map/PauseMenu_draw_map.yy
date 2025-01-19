@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PauseMenu_draw_map",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PauseMenu_draw_map",
+  "parent":{
+    "name":"pause_menu",
+    "path":"folders/Scripts/gui/pause_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Cutscene_MoaiOpenMouth_1_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Cutscene_MoaiOpenMouth_1_udp",
+  "parent":{
+    "name":"cutscene_moai_open_mouth",
+    "path":"folders/Scripts/game_object/gof/cutscene/cutscene_moai_open_mouth.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"p_update_pal_seq",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"p_update_pal_seq",
+  "parent":{
+    "name":"palette",
+    "path":"folders/Scripts/palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

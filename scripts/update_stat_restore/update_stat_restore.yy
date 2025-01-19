@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_stat_restore",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_stat_restore",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Stalfos_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Stalfos_update",
+  "parent":{
+    "name":"stalfos",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/stalfos.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

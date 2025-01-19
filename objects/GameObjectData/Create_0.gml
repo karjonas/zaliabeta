@@ -1,0 +1,2 @@
+GameObjectData_Create();
+

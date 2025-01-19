@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Challenge_SpellSequenceA_init_2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Challenge_SpellSequenceA_init_2",
+  "parent":{
+    "name":"spell_sequence",
+    "path":"folders/Scripts/game_object/goe/challenge/spell_sequence.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

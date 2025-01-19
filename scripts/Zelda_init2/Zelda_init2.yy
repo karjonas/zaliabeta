@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Zelda_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Zelda_init2",
+  "parent":{
+    "name":"npc",
+    "path":"folders/Scripts/game_object/gob/gob2/npc.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

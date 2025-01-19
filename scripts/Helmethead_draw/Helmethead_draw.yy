@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Helmethead_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Helmethead_draw",
+  "parent":{
+    "name":"helmethead",
+    "path":"folders/Scripts/game_object/gob/gob1/boss/helmethead.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

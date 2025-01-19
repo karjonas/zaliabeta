@@ -1,0 +1,2 @@
+DeathScreen_Create();
+

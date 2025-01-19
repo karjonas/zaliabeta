@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Spawner_Wosu_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Spawner_Wosu_update",
+  "parent":{
+    "name":"wosu_spawner",
+    "path":"folders/Scripts/game_object/gob/gob2/spawner/wosu_spawner.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

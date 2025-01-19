@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_Boomerang_1a",
+  "audioGroupId":{
+    "name":"audiogroup_snd",
+    "path":"audiogroups/audiogroup_snd",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.0,
+  "name":"snd_Boomerang_1a",
+  "parent":{
+    "name":"ZeldaII_NES",
+    "path":"folders/Sounds/ZeldaII_NES.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_Boomerang_1a",
+  "type":0,
+  "volume":1.0,
+}

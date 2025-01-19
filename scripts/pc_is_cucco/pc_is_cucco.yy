@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pc_is_cucco",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pc_is_cucco",
+  "parent":{
+    "name":"goa",
+    "path":"folders/Scripts/game_object/goa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

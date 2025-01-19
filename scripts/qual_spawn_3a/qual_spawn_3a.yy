@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"qual_spawn_3a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"qual_spawn_3a",
+  "parent":{
+    "name":"game_object_mgr",
+    "path":"folders/Scripts/game_object_mgr.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

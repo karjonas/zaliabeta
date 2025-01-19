@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fall_scene_get_y_base",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fall_scene_get_y_base",
+  "parent":{
+    "name":"palette",
+    "path":"folders/Scripts/palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

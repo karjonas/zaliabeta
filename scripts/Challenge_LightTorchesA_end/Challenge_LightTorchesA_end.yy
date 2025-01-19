@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Challenge_LightTorchesA_end",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Challenge_LightTorchesA_end",
+  "parent":{
+    "name":"light_torches",
+    "path":"folders/Scripts/game_object/goe/challenge/light_torches.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

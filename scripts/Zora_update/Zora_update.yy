@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Zora_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Zora_update",
+  "parent":{
+    "name":"zora",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/zora.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Deeler_update_OG",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Deeler_update_OG",
+  "parent":{
+    "name":"deeler",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/deeler.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

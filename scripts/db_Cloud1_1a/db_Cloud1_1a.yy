@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"db_Cloud1_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"db_Cloud1_1a",
+  "parent":{
+    "name":"cloud",
+    "path":"folders/Scripts/niao/cloud.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

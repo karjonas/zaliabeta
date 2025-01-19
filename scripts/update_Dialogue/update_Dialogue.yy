@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_Dialogue",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_Dialogue",
+  "parent":{
+    "name":"dialogue",
+    "path":"folders/Scripts/gui/dialogue.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

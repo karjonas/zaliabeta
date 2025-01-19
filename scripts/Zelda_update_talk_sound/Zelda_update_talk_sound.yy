@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Zelda_update_talk_sound",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Zelda_update_talk_sound",
+  "parent":{
+    "name":"npc",
+    "path":"folders/Scripts/game_object/gob/gob2/npc.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

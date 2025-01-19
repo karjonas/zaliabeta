@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BossBot_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BossBot_init2",
+  "parent":{
+    "name":"bot",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/bot.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

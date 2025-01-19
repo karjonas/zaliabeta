@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DialogueWindow_Game_End",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DialogueWindow_Game_End",
+  "parent":{
+    "name":"dialogue",
+    "path":"folders/Scripts/gui/dialogue.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

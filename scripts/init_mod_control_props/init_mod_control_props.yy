@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_mod_control_props",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_mod_control_props",
+  "parent":{
+    "name":"init",
+    "path":"folders/Scripts/Game/init.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

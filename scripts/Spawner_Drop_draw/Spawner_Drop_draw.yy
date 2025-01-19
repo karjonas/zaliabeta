@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Spawner_Drop_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Spawner_Drop_draw",
+  "parent":{
+    "name":"drop_spawner",
+    "path":"folders/Scripts/game_object/gob/gob2/spawner/drop_spawner.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

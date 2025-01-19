@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_RisingBubble",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_RisingBubble",
+  "parent":{
+    "name":"rising_bubble",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/rising_bubble.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

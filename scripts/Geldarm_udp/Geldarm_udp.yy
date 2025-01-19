@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Geldarm_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Geldarm_udp",
+  "parent":{
+    "name":"geldarm",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/geldarm.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

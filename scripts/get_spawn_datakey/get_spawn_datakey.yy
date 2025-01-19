@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_spawn_datakey",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_spawn_datakey",
+  "parent":{
+    "name":"game_object_mgr",
+    "path":"folders/Scripts/game_object_mgr.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

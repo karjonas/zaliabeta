@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Fokkeru_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Fokkeru_udp",
+  "parent":{
+    "name":"fokkeru",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/fokkeru.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

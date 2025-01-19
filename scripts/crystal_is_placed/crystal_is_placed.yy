@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"crystal_is_placed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"crystal_is_placed",
+  "parent":{
+    "name":"crystal_holder",
+    "path":"folders/Scripts/game_object/gob/gob2/crystal_holder.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

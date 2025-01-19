@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"add_to_update_list_b1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"add_to_update_list_b1",
+  "parent":{
+    "name":"gob",
+    "path":"folders/Scripts/game_object/gob.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

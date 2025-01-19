@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"CrystalHolder_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CrystalHolder_init2",
+  "parent":{
+    "name":"crystal_holder",
+    "path":"folders/Scripts/game_object/gob/gob2/crystal_holder.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

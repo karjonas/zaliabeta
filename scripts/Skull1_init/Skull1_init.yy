@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Skull1_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Skull1_init",
+  "parent":{
+    "name":"additional_bg_graphics",
+    "path":"folders/Scripts/niao/additional_bg_graphics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

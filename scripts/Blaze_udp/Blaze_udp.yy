@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Blaze_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Blaze_udp",
+  "parent":{
+    "name":"blaze",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/blaze.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

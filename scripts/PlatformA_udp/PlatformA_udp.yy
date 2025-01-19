@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PlatformA_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PlatformA_udp",
+  "parent":{
+    "name":"PlatformA",
+    "path":"folders/Scripts/game_object/god/platform/PlatformA.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

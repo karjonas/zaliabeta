@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TogglingPathDirectionA_init1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TogglingPathDirectionA_init1",
+  "parent":{
+    "name":"toggling_path_direction",
+    "path":"folders/Scripts/game_object/goe/challenge/toggling_path_direction.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

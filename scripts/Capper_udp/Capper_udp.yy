@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Capper_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Capper_udp",
+  "parent":{
+    "name":"capper",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/capper.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

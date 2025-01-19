@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_Rock2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_Rock2",
+  "parent":{
+    "name":"rock",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/rock.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

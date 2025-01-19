@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Kakusu003_init2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Kakusu003_init2",
+  "parent":{
+    "name":"Kakusu_003",
+    "path":"folders/Scripts/game_object/gob/gob1/kakusu/Kakusu_003.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

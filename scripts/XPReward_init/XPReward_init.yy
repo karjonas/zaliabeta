@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"XPReward_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"XPReward_init",
+  "parent":{
+    "name":"xp_reward",
+    "path":"folders/Scripts/niao/xp_reward.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

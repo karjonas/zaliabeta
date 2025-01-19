@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"usd_Rock",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"usd_Rock",
+  "parent":{
+    "name":"rock",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/rock.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

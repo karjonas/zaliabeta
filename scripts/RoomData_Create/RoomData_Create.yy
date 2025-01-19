@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"RoomData_Create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RoomData_Create",
+  "parent":{
+    "name":"data_entry_scripts",
+    "path":"folders/Scripts/room_data/data_entry_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

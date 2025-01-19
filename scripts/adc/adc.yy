@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"adc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"adc",
+  "parent":{
+    "name":"math",
+    "path":"folders/Scripts/math.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

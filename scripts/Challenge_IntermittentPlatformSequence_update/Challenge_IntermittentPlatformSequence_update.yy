@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Challenge_IntermittentPlatformSequence_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Challenge_IntermittentPlatformSequence_update",
+  "parent":{
+    "name":"intermittent_platform_sequence",
+    "path":"folders/Scripts/game_object/goe/challenge/intermittent_platform_sequence.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

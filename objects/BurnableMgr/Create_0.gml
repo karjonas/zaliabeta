@@ -1,0 +1,2 @@
+BurnableMgr_Create();
+

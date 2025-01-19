@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Barrier_update_2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Barrier_update_2",
+  "parent":{
+    "name":"barrier",
+    "path":"folders/Scripts/game_object/gob/gob2/barrier.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

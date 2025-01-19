@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GOB_is_out_of_bounds_y",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GOB_is_out_of_bounds_y",
+  "parent":{
+    "name":"gob",
+    "path":"folders/Scripts/game_object/gob.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

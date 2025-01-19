@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"OptionsMenu_Draw_AudioCustom",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"OptionsMenu_Draw_AudioCustom",
+  "parent":{
+    "name":"options_menu",
+    "path":"folders/Scripts/gui/options_menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

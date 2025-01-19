@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"rand",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rand",
+  "parent":{
+    "name":"gob",
+    "path":"folders/Scripts/game_object/gob.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

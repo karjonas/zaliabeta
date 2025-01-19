@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dev_create_pc_skin_sprite_1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dev_create_pc_skin_sprite_1",
+  "parent":{
+    "name":"game_object",
+    "path":"folders/Scripts/dev/game_object.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

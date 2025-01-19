@@ -1,0 +1,2 @@
+Rando_Create();
+

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TyellManager_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TyellManager_update",
+  "parent":{
+    "name":"tyell",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/tyell.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

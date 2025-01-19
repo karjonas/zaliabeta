@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"CrystalHolder_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CrystalHolder_udp",
+  "parent":{
+    "name":"crystal_holder",
+    "path":"folders/Scripts/game_object/gob/gob2/crystal_holder.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

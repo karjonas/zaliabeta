@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"updateX",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"updateX",
+  "parent":{
+    "name":"go",
+    "path":"folders/Scripts/game_object/go.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

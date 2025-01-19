@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"db_Overworld_Draw_2a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"db_Overworld_Draw_2a",
+  "parent":{
+    "name":"overworld",
+    "path":"folders/Scripts/debug/overworld.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

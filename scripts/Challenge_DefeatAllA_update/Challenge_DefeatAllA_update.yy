@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Challenge_DefeatAllA_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Challenge_DefeatAllA_update",
+  "parent":{
+    "name":"defeat_all",
+    "path":"folders/Scripts/game_object/goe/challenge/defeat_all.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

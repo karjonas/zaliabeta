@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"LockedDoor_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LockedDoor_update",
+  "parent":{
+    "name":"locked_door",
+    "path":"folders/Scripts/game_object/gob/gob2/locked_door.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

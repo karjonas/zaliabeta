@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Platform_update_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Platform_update_1a",
+  "parent":{
+    "name":"platform",
+    "path":"folders/Scripts/game_object/god/platform.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

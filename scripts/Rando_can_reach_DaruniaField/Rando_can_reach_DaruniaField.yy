@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Rando_can_reach_DaruniaField",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Rando_can_reach_DaruniaField",
+  "parent":{
+    "name":"rando",
+    "path":"folders/Scripts/rando.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FireRope_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FireRope_udp",
+  "parent":{
+    "name":"fire_rope",
+    "path":"folders/Scripts/game_object/gob/gob2/fire_rope.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

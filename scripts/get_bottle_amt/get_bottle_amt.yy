@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_bottle_amt",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_bottle_amt",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

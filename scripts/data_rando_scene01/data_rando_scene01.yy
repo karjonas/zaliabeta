@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"data_rando_scene01",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"data_rando_scene01",
+  "parent":{
+    "name":"data_entry_scripts",
+    "path":"folders/Scripts/room_data/data_entry_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

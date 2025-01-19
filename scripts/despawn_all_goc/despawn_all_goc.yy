@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"despawn_all_goc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"despawn_all_goc",
+  "parent":{
+    "name":"projectile_hostile",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

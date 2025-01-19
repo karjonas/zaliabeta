@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Stalfoon_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Stalfoon_draw",
+  "parent":{
+    "name":"stalfoon",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/stalfoon.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

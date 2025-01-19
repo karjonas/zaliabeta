@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Lowder_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Lowder_udp",
+  "parent":{
+    "name":"lowder",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/lowder.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

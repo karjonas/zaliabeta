@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Rando_can_traverse_JUMPCave",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Rando_can_traverse_JUMPCave",
+  "parent":{
+    "name":"rando",
+    "path":"folders/Scripts/rando.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

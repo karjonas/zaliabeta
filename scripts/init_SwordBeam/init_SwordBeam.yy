@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_SwordBeam",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_SwordBeam",
+  "parent":{
+    "name":"sword_beam",
+    "path":"folders/Scripts/game_object/goc/projectile_hostile/sword_beam.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Overworld_Draw_BootsTileHint",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Overworld_Draw_BootsTileHint",
+  "parent":{
+    "name":"overworld",
+    "path":"folders/Scripts/overworld.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

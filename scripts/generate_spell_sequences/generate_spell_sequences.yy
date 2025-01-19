@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"generate_spell_sequences",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"generate_spell_sequences",
+  "parent":{
+    "name":"file",
+    "path":"folders/Scripts/file.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

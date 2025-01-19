@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"debug_NIAO_spawn_1a",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"debug_NIAO_spawn_1a",
+  "parent":{
+    "name":"spawn",
+    "path":"folders/Scripts/debug/spawn.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

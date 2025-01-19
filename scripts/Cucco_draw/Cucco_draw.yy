@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Cucco_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Cucco_draw",
+  "parent":{
+    "name":"cucco",
+    "path":"folders/Scripts/game_object/gob/gob2/cucco.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

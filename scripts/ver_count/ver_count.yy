@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ver_count",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ver_count",
+  "parent":{
+    "name":"go",
+    "path":"folders/Scripts/game_object/go.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

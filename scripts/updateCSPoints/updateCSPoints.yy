@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"updateCSPoints",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"updateCSPoints",
+  "parent":{
+    "name":"cs",
+    "path":"folders/Scripts/collision/cs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

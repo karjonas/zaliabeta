@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Snaraa_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Snaraa_draw",
+  "parent":{
+    "name":"snaraa",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/snaraa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

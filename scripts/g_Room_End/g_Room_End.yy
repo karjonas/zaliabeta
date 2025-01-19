@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"g_Room_End",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"g_Room_End",
+  "parent":{
+    "name":"event",
+    "path":"folders/Scripts/Game/event.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

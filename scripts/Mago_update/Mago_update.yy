@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Mago_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Mago_update",
+  "parent":{
+    "name":"mago",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/mago.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

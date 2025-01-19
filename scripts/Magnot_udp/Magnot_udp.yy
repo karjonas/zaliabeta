@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Magnot_udp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Magnot_udp",
+  "parent":{
+    "name":"magnot",
+    "path":"folders/Scripts/game_object/gob/gob1/enemy/magnot.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

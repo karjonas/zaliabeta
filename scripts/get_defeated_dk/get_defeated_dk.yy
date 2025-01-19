@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_defeated_dk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_defeated_dk",
+  "parent":{
+    "name":"gob",
+    "path":"folders/Scripts/game_object/gob.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
