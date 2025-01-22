@@ -19,7 +19,7 @@ function Barrier_draw() {
 	    //_Y += _Y_OFF*_DIR;
 	var _rows=0;
 	_pi = get_pi(p.dg_PI_SEQ[#dg_PI_SEQ_IDX,_IDX], _IDX==2);
-	pal_swap_set(p.palette_image, _pi);
+	pal_swap_set(p.palette_image, _pi, false);
 
 	for(_i=0; _i<BARRIER_COUNT; _i++) // each barrier/crystal
 	{

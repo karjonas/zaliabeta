@@ -11,7 +11,7 @@ function Growkke_draw() {
 
 
 
-	pal_swap_set(p.palette_image, palidx);
+	pal_swap_set(p.palette_image, palidx, false);
 
 	_y = GROUND_Y - 4 + draw_yoff;
 	for(_i=ds_grid_width(dg_segments)-1; _i>=0; _i--)

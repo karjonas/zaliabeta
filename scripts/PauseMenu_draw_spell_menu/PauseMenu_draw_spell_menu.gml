@@ -23,7 +23,7 @@ function PauseMenu_draw_spell_menu() {
 	        var _X1 = Window_spell_menu_window_xl;
 	        var _Y1 = drawY + ($02<<3);
         
-	        pal_swap_set(p.palette_image, PI_MENU);
+	        pal_swap_set(p.palette_image, PI_MENU, false);
 	        for(_i=1; _i<CLMS_WIN_SPL-1; _i++) // 
 	        {
 	            _tsrc = TSRC_HORZ;

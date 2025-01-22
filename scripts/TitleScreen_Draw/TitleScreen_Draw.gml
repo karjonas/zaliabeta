@@ -241,7 +241,7 @@ function TitleScreen_Draw() {
 	    {
 	        if (surface_exists(dg_terrain[#_i,0]))
 	        {
-	            pal_swap_set(p.palette_image, dg_terrain[#_i,1]);
+	            pal_swap_set(p.palette_image, dg_terrain[#_i,1], false);
 	            draw_surface(dg_terrain[#_i,0],0,0);
 	            pal_swap_reset();
 	        }

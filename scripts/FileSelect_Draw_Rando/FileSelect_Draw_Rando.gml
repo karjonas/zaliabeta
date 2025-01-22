@@ -56,7 +56,7 @@ function FileSelect_Draw_Rando() {
 	_count--; // Text pad
 	_x = Area1_XL;
 	_y = Area1_YT;
-	pal_swap_set(p.palette_image, PI_MENU);
+	pal_swap_set(p.palette_image, PI_MENU, false);
 	for(_i=0; _i<_count; _i++) draw_background_part(ts_Menu01, $0<<3,$2<<3, 8,8, _x+(_i<<3),_y);
 	_x = Area1_XR-8;
 	for(_i=0; _i<_count; _i++) draw_background_part(ts_Menu01, $0<<3,$2<<3, 8,8, _x-(_i<<3),_y);
@@ -638,7 +638,7 @@ function FileSelect_Draw_Rando() {
 	_x -= (_count<<3)>>1;
 	_y  = RandoDescription_YT;
 	_y -= $0A;
-	pal_swap_set(p.palette_image, PI_MENU);
+	pal_swap_set(p.palette_image, PI_MENU, false);
 	for(_i=0; _i<_count; _i++) draw_background_part(ts_Menu01, $0<<3,$2<<3, 8,8, _x+(_i<<3),_y);
 	pal_swap_reset();
 	*/

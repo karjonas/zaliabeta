@@ -76,7 +76,7 @@ function FileSelect_draw_savefile_rando_info(argument0) {
         
         
         
-	        pal_swap_set(p.palette_image, PI_MENU);
+	        pal_swap_set(p.palette_image, PI_MENU, false);
         
 	        for(_i=0; _i<2; _i++)
 	        {
@@ -838,7 +838,7 @@ function FileSelect_draw_savefile_rando_info(argument0) {
 	            _XL -= $6;
 	        var _YT  = $8;
         
-	        pal_swap_set(p.palette_image, PI_MENU);
+	        pal_swap_set(p.palette_image, PI_MENU, false);
         
 	        _x = _XL;
 	        _y = _YT;

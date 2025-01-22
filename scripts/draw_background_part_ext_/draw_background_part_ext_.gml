@@ -2,7 +2,7 @@
 function draw_background_part_ext_(argument0, argument1, argument2, argument3, argument4, argument5, argument6, argument7, argument8, argument9) {
 
 
-	pal_swap_set(p.palette_image,  argument0);
+	pal_swap_set(p.palette_image,  argument0, false);
 
 	draw_background_part_ext(argument1,             // background
 	                         argument2, argument3,  // bg x, bg y

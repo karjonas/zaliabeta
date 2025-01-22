@@ -161,7 +161,7 @@ function OptionsMenu_Draw() {
 	_font_w = sprite_get_width( _font);
 	_font_h = sprite_get_height(_font);
 
-	pal_swap_set(p.palette_image, PI_MENU);
+	pal_swap_set(p.palette_image, PI_MENU, false);
 	_y = drawY + (YOFF_HEAD*_font_h);
 	if (_y+_font_h < _MenuWindow_YB-$8)
 	//if (_y+_font_h < _MenuWindow_YB-$10)
@@ -209,7 +209,7 @@ function OptionsMenu_Draw() {
 	    var _DIST1 = 4;
 	    var _DIST2 = 8;
     
-	    pal_swap_set(p.palette_image, PI_MENU);
+	    pal_swap_set(p.palette_image, PI_MENU, false);
 	    for(_i=0; _i<MainOption_COUNT; _i++)
 	    {
 	        if(!OptionsMenu_option_is_avail(Menu_MAIN,_i))
@@ -652,7 +652,7 @@ function OptionsMenu_Draw() {
 	    var _DIST1 = 4;
 	    var _option_is_avail = false;
     
-	    pal_swap_set(p.palette_image, PI_MENU);
+	    pal_swap_set(p.palette_image, PI_MENU, false);
 	    for(_i=0; _i<RandoOptions_COUNT; _i++)
 	    {
 	        //if(!OptionsMenu_option_is_avail(Menu_RANDO_OPTIONS,_i)) continue;//_i

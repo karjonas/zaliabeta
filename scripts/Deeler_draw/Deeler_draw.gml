@@ -5,7 +5,7 @@ function Deeler_draw() {
 	if(!can_draw_self) exit; // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
-	pal_swap_set(p.palette_image, palidx);
+	pal_swap_set(p.palette_image, palidx, false);
 	if (Web_can_draw)
 	{
 	    for(var _i=ds_list_size(dl_Web_y)-1; _i>=0; _i--)

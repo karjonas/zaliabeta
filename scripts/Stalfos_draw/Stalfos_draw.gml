@@ -5,7 +5,7 @@ function Stalfos_draw() {
 	if(!can_draw_self) exit; // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
-	pal_swap_set(p.palette_image, palidx);
+	pal_swap_set(p.palette_image, palidx, false);
 
 	if (g.mod_STALFOS_CHAIN 
 	&&  can_draw_chain )

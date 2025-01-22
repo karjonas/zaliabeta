@@ -36,7 +36,7 @@ function RebonackA_draw() {
 	if (_can_draw_self 
 	&&  Explode_counter<(Explode_DURATION>>1) )
 	{
-	    pal_swap_set(p.palette_image, palidx);
+	    pal_swap_set(p.palette_image, palidx, false);
     
 	    draw_sprite_(Rider_sprite,0,  drawX+ Back_xoff, drawY+Rider_yoff, -1, xScale);
 	    draw_sprite_( Back_sprite,0,  drawX+ Back_xoff, drawY,            -1, xScale);

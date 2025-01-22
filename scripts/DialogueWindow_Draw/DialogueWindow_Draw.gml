@@ -108,7 +108,7 @@ function DialogueWindow_Draw() {
 	    // -------------------------------------------------------------------------
 	    // DRAW FRAME --------------------------------------------
 	    // draw_gui_frame(ar_TSRC_DATA, cnt_draw_rows, drawX, drawY);
-	    pal_swap_set(p.palette_image, PI_GUI_1);
+	    pal_swap_set(p.palette_image, PI_GUI_1, false);
 	    if(!_D3){
 	        if (surface_exists(   WINDOW_FRAME1_SRF))
 	        {   draw_surface_part(WINDOW_FRAME1_SRF, 0,0, _w,_h, drawX,drawY);  }

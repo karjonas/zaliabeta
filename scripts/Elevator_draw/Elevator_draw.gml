@@ -8,7 +8,7 @@ function Elevator_draw() {
 	var _i, _x,_y;
 
 
-	pal_swap_set(p.palette_image, palidx);
+	pal_swap_set(p.palette_image, palidx, false);
 
 	var       _Y =  drawY - hh_ + 8;
 	var _Y1 = _Y + (chain_yoff_1>>CHAIN_TIMING);

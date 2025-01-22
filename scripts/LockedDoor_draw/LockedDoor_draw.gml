@@ -5,7 +5,7 @@ function LockedDoor_draw() {
 	if(!can_draw_self) exit; // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
-	pal_swap_set(p.palette_image, palidx);
+	pal_swap_set(p.palette_image, palidx, false);
 
 	draw_sprite_(SPR_2A,0, drawX, drawY-openYOff, -1, 1);
 	draw_sprite_(SPR_2A,0, drawX, drawY+openYOff, -1, 1);

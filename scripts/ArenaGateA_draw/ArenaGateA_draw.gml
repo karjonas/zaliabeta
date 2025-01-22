@@ -6,7 +6,7 @@ function ArenaGateA_draw() {
 	if(!counter)       exit; // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
-	pal_swap_set(p.palette_image, palidx);
+	pal_swap_set(p.palette_image, palidx, false);
 	var _Y = DOOR_Y + (GATE_SPR_H>>1);
 	for(var _i=0; _i<counter; _i++)
 	{

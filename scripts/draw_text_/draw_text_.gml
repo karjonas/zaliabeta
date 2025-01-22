@@ -37,7 +37,7 @@ function draw_text_() {
 	var _x_off  = 0;
 	var _y_off  = 0;
 
-	if (_TEXT_PI>=0) pal_swap_set(p.palette_image, _TEXT_PI);
+	if (_TEXT_PI>=0) pal_swap_set(p.palette_image, _TEXT_PI, false);
 
 	var           _LEN = string_length(_TEXT);
 	for(_i=1; _i<=_LEN; _i++)
