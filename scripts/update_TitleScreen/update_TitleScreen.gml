@@ -27,11 +27,16 @@ function update_TitleScreen() {
 	// TITLE ---------------------------------------
 	if!(counter&$3) // every 4 frames
 	{
-	    if (_RESET)                story2_y = story_y;
-	    if (_RESET)                title_y  = TITLE_Y_RESET; // ONE FRAME
+	    if (_RESET) {
+			story2_y = story_y;
+		 title_y  = TITLE_Y_RESET; // ONE FRAME
+		}
     
-	    if (_count>=SCROLL2_DELAY) title_y--;  // story scroll.  SCROLL2_DELAY=8
-	    else if (title_y>0)        title_y--;  // title reveal scroll
+	    if (_count>=SCROLL2_DELAY) {
+			title_y--;  // story scroll.  SCROLL2_DELAY=8
+		}	    else if (title_y>0)       {
+			title_y--;  // title reveal scroll
+		}
 	}
 
 
