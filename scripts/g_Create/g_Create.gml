@@ -435,6 +435,9 @@ function g_Create() {
 	    //global.RetroShaders_surface_scale = 2;
 	}
 	global.application_surface_draw_enable_state = !global.RetroShaders_enabled;
+	global.room_next_lol = undefined;
+	global.room_next_w = 0;
+	global.room_next_h = 0;
 
 
 

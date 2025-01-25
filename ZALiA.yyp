@@ -1133,7 +1133,9 @@
   ],
   "isEcma":false,
   "LibraryEmitters":[],
-  "MetaData":{},
+  "MetaData":{
+    "IDEVersion":"2024.1300.0.720",
+  },
   "name":"ZALiA",
   "resources":[
     {"id":{"name":"GMSched","path":"extensions/GMSched/GMSched.yy",},},
@@ -1458,6 +1460,7 @@
     {"id":{"name":"rmB_Start","path":"rooms/rmB_Start/rmB_Start.yy",},},
     {"id":{"name":"rmB_Title","path":"rooms/rmB_Title/rmB_Title.yy",},},
     {"id":{"name":"rmC_Overworld_A","path":"rooms/rmC_Overworld_A/rmC_Overworld_A.yy",},},
+    {"id":{"name":"room_switcher_lol","path":"rooms/room_switcher_lol/room_switcher_lol.yy",},},
     {"id":{"name":"__background_get_colour_element","path":"scripts/__background_get_colour_element/__background_get_colour_element.yy",},},
     {"id":{"name":"__background_get_colour","path":"scripts/__background_get_colour/__background_get_colour.yy",},},
     {"id":{"name":"__background_set_colour","path":"scripts/__background_set_colour/__background_set_colour.yy",},},
@@ -4298,6 +4301,7 @@
     {"roomId":{"name":"rmC_Overworld_A","path":"rooms/rmC_Overworld_A/rmC_Overworld_A.yy",},},
     {"roomId":{"name":"rmA_Action","path":"rooms/rmA_Action/rmA_Action.yy",},},
     {"roomId":{"name":"rmA_Action_Wide","path":"rooms/rmA_Action_Wide/rmA_Action_Wide.yy",},},
+    {"roomId":{"name":"room_switcher_lol","path":"rooms/room_switcher_lol/room_switcher_lol.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[

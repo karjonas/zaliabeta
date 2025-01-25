@@ -9,8 +9,12 @@ function room_goto_() {
 	if (argument_count>2 && argument[2]) _view_h = clamp(argument[2], 256, 1024);
 
 
-	room_set_view_(argument[0], _view_w,_view_h);
-	room_goto(     argument[0]);
+	//room_set_view_(argument[0], _view_w,_view_h);
+	sdm("room_goto_", argument[0]);
+	global.room_next_lol = argument[0];
+	global.room_next_w = _view_w;
+	global.room_next_h = _view_h;	
+	room_goto(room_switcher_lol);
 
 
 
