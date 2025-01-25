@@ -1,5 +1,5 @@
 /// @description  sdm(string)
-function sdm(argument0) {
+function sdm() {
 
 	// sdm: Show Debug Message
 	// This is a shorter named show_debug_message()
@@ -19,7 +19,9 @@ function sdm(argument0) {
 			while (string_char_at(str, string_length(str)) == "0") {
 			    str = string_delete(str, string_length(str), 1);
 			}
-			str += "0";
+			if (string_char_at(str, string_length(str)) == "." || str == "") {
+		        str += "0";
+			}
         }
         if (!is_string(str)) str = string(str);
         output_string += str + " ";
