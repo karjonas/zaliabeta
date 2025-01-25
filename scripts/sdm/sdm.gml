@@ -24,7 +24,10 @@ function sdm() {
 			}
         }
         if (!is_string(str)) str = string(str);
-        output_string += str + " ";
+        output_string += str;
+		if (i < argument_count - 1) {
+		    output_string += " ";
+		}
     }
     
     show_debug_message(output_string);
