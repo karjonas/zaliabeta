@@ -1,0 +1,5 @@
+- Wizard not invisible
+- many tiles fooked still
+- No sound on enemy fight
+
+
