@@ -25,11 +25,12 @@ function tile_layer_shift(argument0, argument1, argument2) {
 		var __j;
 		for(__j = 0; __j < __numels; __j++)
 		{
-			var __eltype = layer_get_element_type(__els[__j]);
+			var __elem = __els[__j];
+			var __eltype = layer_get_element_type(__elem);
 			if (__eltype == layerelementtype_tile)
 			{
-				layer_tile_x(__els[__j], layer_tile_get_x(__els[__j]) + __x);
-				layer_tile_y(__els[__j], layer_tile_get_y(__els[__j]) + __y);			
+				layer_tile_x(__elem, layer_tile_get_x(__elem) + __x);
+				layer_tile_y(__elem, layer_tile_get_y(__elem) + __y);			
 			}
 		}	
 	}
