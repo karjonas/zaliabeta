@@ -20,10 +20,12 @@ function Boss_update_end() {
 	    // state_EXPLODE so timer won't get changed.
 	    for(var _i=MAX_GOB1-1; _i>=0; _i--)
 	    {
-	        if!(g.go_mgr.dl_gob1[|_i]+1)
-	        {
-	            continue;//_i
-	        }
+					if (is_undefined(   g.go_mgr.dl_gob1[|_i]) 
+	               || !instance_exists(g.go_mgr.dl_gob1[|_i]) )
+	               {
+	                   continue;//_i
+	               }
+        
         
 	        with(g.go_mgr.dl_gob1[|_i])
 	        {

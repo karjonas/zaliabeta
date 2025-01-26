@@ -43,10 +43,12 @@ function update_spell_effects() {
 	    // BEC7
 	    for(var _i=ds_list_size(g.go_mgr.dl_gob1)-1; _i>=0; _i--)
 	    {
-	        if!(g.go_mgr.dl_gob1[|_i]+1)
-	        {
-	            continue;
-	        }
+			if (is_undefined(   g.go_mgr.dl_gob1[|_i]) 
+	               || !instance_exists(g.go_mgr.dl_gob1[|_i]) )
+	               {
+	                   continue;//_i
+	               }
+        
         
 	        with(g.go_mgr.dl_gob1[|_i])
 	        {
@@ -109,10 +111,11 @@ function update_spell_effects() {
 	    // TURN ALL SUSCEPTIBLE ENEMIES INTO Bot
 	    for(_i=ds_list_size(g.go_mgr.dl_gob1)-1; _i>=0; _i--)
 	    {
-	        if!(g.go_mgr.dl_gob1[|_i]+1)
-	        {
-	            continue;//_i
-	        }
+					if (is_undefined(   g.go_mgr.dl_gob1[|_i]) 
+	               || !instance_exists(g.go_mgr.dl_gob1[|_i]) )
+	               {
+	                   continue;//_i
+	               }
         
         
 	        with(g.go_mgr.dl_gob1[|_i])
