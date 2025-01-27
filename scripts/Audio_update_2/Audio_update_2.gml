@@ -74,11 +74,11 @@ function Audio_update_2() {
 	// `can_play_mus_rm_body` in Audio_Room_Start() and update_change_room().
 
 	if (can_play_mus_rm_body 
-	&&  mus_rm_body!=0   // if mus_rm_body==0, there's no intro
+	&&  mus_rm_body!=-1   // if mus_rm_body==0, there's no intro
 	&& !audio_is_playing(mus_rm_inst) )
 	//&&  g.ChangeRoom_timer<=0 ) // g.ChangeRoom_timer might not be a whole number. NEED <=0 check
 	{
-	    var _audio_asset = 0;
+	    var _audio_asset = -1;
 	    var _play_pos = 0;
     
 	    var _NAME = audio_get_name(mus_rm_body);
@@ -91,7 +91,7 @@ function Audio_update_2() {
 	    }
 	    else
 	    {
-	        if (mus_rm_intr!=0 
+	        if (mus_rm_intr!=-1
 	        &&  val(dm[?rm_music_theme+dk_Intro_CanPlay]) )
 	        {
 	                dm[?rm_music_theme+dk_Intro_CanPlay] = false;
@@ -104,7 +104,7 @@ function Audio_update_2() {
 	    }
 	    //sdm("audio_get_name(mus_rm_intr) '"+audio_get_name(mus_rm_intr)+"', "+"audio_get_name(mus_rm_body) '"+audio_get_name(mus_rm_body)+"', "+"audio_get_name(_audio_asset) '"+audio_get_name(_audio_asset)+"', ");
     
-	    if (_audio_asset)
+	    if (_audio_asset != -1)
 	    {
 	        //var _interruper_inst_theme = val(dm_music_inst[?string(mus_rm_inst)+STR_Theme]);
         
@@ -163,7 +163,7 @@ function Audio_update_2() {
 
 
 
-	if (mus_rm_body!=0 
+	if (mus_rm_body!=-1 
 	&&  audio_is_playing(mus_rm_body) )
 	{
 	    mus_asset_name_interrupted = 0;

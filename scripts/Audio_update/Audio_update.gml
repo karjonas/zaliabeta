@@ -45,7 +45,7 @@ function Audio_update() {
 	    }
     
 	    // ------------------------------------------------------------------------
-	    if (mus_rm_inst 
+	    if (mus_rm_inst != -1 
 	    &&  audio_is_playing(mus_rm_inst) )
 	    {
 	        mus_rm_pos_prev = mus_rm_pos_curr;
@@ -74,7 +74,7 @@ function Audio_update() {
 	    }
     
     
-	    if (mus_rm_inst 
+	    if (mus_rm_inst != -1
 	    &&  audio_is_playing(mus_rm_inst) 
 	    &&  mus_rm_body 
 	    &&  audio_get_name(mus_rm_inst)==audio_get_name(mus_rm_body) )
@@ -147,8 +147,8 @@ function Audio_update() {
     
     
     
-	    if (mus_rm_inst 
-	    &&  mus_rm_body 
+	    if (mus_rm_inst != -1
+	    &&  mus_rm_body != -1
 	    &&  audio_is_playing(mus_rm_inst) )
 	    {
 	        if (audio_get_name(mus_rm_inst)==audio_get_name(mus_Town_Intro_1a) 

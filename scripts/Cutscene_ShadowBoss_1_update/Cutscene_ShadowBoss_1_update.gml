@@ -169,8 +169,8 @@ function Cutscene_ShadowBoss_1_update() {
 	    //audio_group_stop_all(audiogroup_snd);
 	    aud_play_sound(get_audio_theme_track(STR_Cast+STR_Spell))
 	    audio_stop_sound(Audio.mus_rm_inst);
-	                     Audio.mus_rm_intr = 0;
-	                     Audio.mus_rm_body = 0;
+	                     Audio.mus_rm_intr = -1;
+	                     Audio.mus_rm_body = -1;
 	    //
 	    g.cutscene_part++;
 	    break;}

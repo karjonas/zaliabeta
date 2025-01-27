@@ -129,7 +129,7 @@ function update_QuitAppMenu() {
 	                    f.death_count += lives;
 	                    lives = 0;
                     
-	                    Audio.mus_rm_body = 0; // Need to do this so ContinueScreen music will play
+	                    Audio.mus_rm_body = -1; // Need to do this so ContinueScreen music will play
 	                    room_goto_(rmB_ContinueSave);
 	                }
                 

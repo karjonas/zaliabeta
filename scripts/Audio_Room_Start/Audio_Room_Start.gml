@@ -179,7 +179,9 @@ function Audio_Room_Start() {
 
 	if (string_pos("RANDOM",string_upper(audio_set)))
 	{
-	    if (_IS_DIFF_THEME) mus_rm_body = get_audio_theme_track_random(rm_music_theme);
+	    if (_IS_DIFF_THEME) {
+			mus_rm_body = get_audio_theme_track_random(rm_music_theme);
+		}
 	    //sdm("mus_rm_body "+audio_get_name(mus_rm_body)+", current_theme_random_track "+audio_get_name(current_theme_random_track));
 	}
 	else
@@ -206,11 +208,11 @@ function Audio_Room_Start() {
 	if (_IS_DIFF_THEME 
 	&&  _IS_DIFF_BODY )
 	{
-	    mus_rm_intr = val(dm[?audio_get_name(mus_rm_body)+STR_Intro]);
+	    mus_rm_intr = val(dm[?audio_get_name(mus_rm_body)+STR_Intro], -1);
 	}
 	else
 	{
-	    mus_rm_intr = 0;
+	    mus_rm_intr = -1;
 	    if(!is_undefined(dm[?rm_music_theme+dk_Intro_CanPlay]))
 	    {                dm[?rm_music_theme+dk_Intro_CanPlay] = false;  }
 	}

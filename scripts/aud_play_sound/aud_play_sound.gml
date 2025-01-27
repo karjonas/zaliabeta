@@ -27,7 +27,7 @@ function aud_play_sound() {
         
 	        //if (mus_rm_inst 
 	        //&&  audio_is_playing(mus_rm_inst) 
-	        if (mus_rm_body 
+	        if (mus_rm_body != -1 
 	        &&  audio_is_playing(mus_rm_body) 
 	        &&  val(dm[?dk_SceneMusicThemeException+"02"+audio_get_name(mus_rm_body)]) 
 	        && !is_undefined(_THEME) 

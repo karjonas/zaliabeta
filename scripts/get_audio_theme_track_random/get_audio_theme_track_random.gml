@@ -5,6 +5,9 @@ function get_audio_theme_track_random() {
 	with(Audio)
 	{
 	    var _THEME = argument[0];
+	    if (_THEME == "undefined") {
+	    	return -1;
+	    }
     
 	    var _track       = val(dm[?_THEME+STR_Default]);
 	    var _TRACK_COUNT = val(dm[?_THEME+STR_Track+STR_Count]);
@@ -98,7 +101,7 @@ function get_audio_theme_track_random() {
 	}
 
 
-	return 0;
+	return -1;
 
 
 

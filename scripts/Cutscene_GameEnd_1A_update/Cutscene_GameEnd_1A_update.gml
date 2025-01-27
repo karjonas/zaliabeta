@@ -61,8 +61,8 @@ function Cutscene_GameEnd_1A_update() {
     
     
 	    audio_stop_sound(Audio.mus_rm_inst);
-	                     Audio.mus_rm_intr = 0;
-	                     Audio.mus_rm_body = 0;
+	                     Audio.mus_rm_intr = -1;
+	                     Audio.mus_rm_body = -1;
     
     
 	    g.cutscene_timer  = DUR1; // DUR1: $5F 1.583s

@@ -432,8 +432,8 @@ function Cutscene_GameEnd_1B_update() {
 	    if(!_will_loop)
 	    //if (audio_get_name(_MUSIC)==audio_get_name(mus_Wyng1_Credits))
 	    {
-	        Audio.mus_rm_intr = 0;
-	        Audio.mus_rm_body = 0;
+	        Audio.mus_rm_intr = -1;
+	        Audio.mus_rm_body = -1;
 	    }
     
 	    aud_play_sound(_MUSIC, Audio.PRIORITY_TOP, _will_loop, -1, dk_Credits);
@@ -808,7 +808,7 @@ function Cutscene_GameEnd_1B_update() {
         
 	        // Prevent 'Wake Zelda' music from restarting.
 	        //audio_stop_sound(Audio.mus_rm_body);
-	        Audio.mus_rm_body = 0; // This line is enough to prevent 'Wake Zelda' music from restarting, but it only works if done right here for some reason..
+	        Audio.mus_rm_body = -1; // This line is enough to prevent 'Wake Zelda' music from restarting, but it only works if done right here for some reason..
 	        //audio_group_stop_all(audiogroup_mus);
         
 	        spawn_data_set_default();
@@ -1014,7 +1014,7 @@ function Cutscene_GameEnd_1B_update() {
     
     
 	    // Prevent 'Wake Zelda' music from restarting.
-	    // Audio.mus_rm_body = 0;
+	    // Audio.mus_rm_body = -1;
 	    // audio_group_stop_all(audiogroup_mus); // Prevent 'Wake Zelda' music from restarting.
     
 	    goto_title_rm();
