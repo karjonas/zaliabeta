@@ -1134,7 +1134,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.1300.0.720",
+    "IDEVersion":"2024.1300.0.732",
   },
   "name":"ZALiA",
   "resources":[
@@ -3165,6 +3165,7 @@
     {"id":{"name":"TorchA_udp","path":"scripts/TorchA_udp/TorchA_udp.yy",},},
     {"id":{"name":"TorchA_update","path":"scripts/TorchA_update/TorchA_update.yy",},},
     {"id":{"name":"triforce_pal_update","path":"scripts/triforce_pal_update/triforce_pal_update.yy",},},
+    {"id":{"name":"try_bit_and","path":"scripts/try_bit_and/try_bit_and.yy",},},
     {"id":{"name":"Tyell_draw","path":"scripts/Tyell_draw/Tyell_draw.yy",},},
     {"id":{"name":"Tyell_end","path":"scripts/Tyell_end/Tyell_end.yy",},},
     {"id":{"name":"Tyell_init1","path":"scripts/Tyell_init1/Tyell_init1.yy",},},

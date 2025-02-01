@@ -339,8 +339,8 @@ function PC_update_1() {
 	                    _row  = csBtm1Y>>3;
 	                var _clm2 = csBtm2X>>3;
 	                var _row2 = csBtm2Y>>3;
-	                if(!isVal(g.dg_RmTile_Break_def[#_clm ,_row ]&$FF, TID_BREAK1,TID_BREAK2,TID_BREAK3,TID_BREAK4) 
-	                && !isVal(g.dg_RmTile_Break_def[#_clm2,_row2]&$FF, TID_BREAK1,TID_BREAK2,TID_BREAK3,TID_BREAK4) 
+	                if(!isVal(try_bit_and(g.dg_RmTile_Break_def[#_clm ,_row ],$FF), TID_BREAK1,TID_BREAK2,TID_BREAK3,TID_BREAK4) 
+	                && !isVal(try_bit_and(g.dg_RmTile_Break_def[#_clm2,_row2],$FF), TID_BREAK1,TID_BREAK2,TID_BREAK3,TID_BREAK4) 
 	                &&       !g.dg_RmTile_TempSolid[#_clm ,_row ]&$FF 
 	                &&       !g.dg_RmTile_TempSolid[#_clm2,_row2]&$FF )
 	                {

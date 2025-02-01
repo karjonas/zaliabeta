@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"try_bit_and",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"try_bit_and",
+  "parent":{
+    "name":"goa",
+    "path":"folders/Scripts/game_object/goa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
