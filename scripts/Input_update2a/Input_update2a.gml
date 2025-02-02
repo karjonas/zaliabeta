@@ -20,7 +20,7 @@ function Input_update2a() {
 	    _U_KEY = keyboard_check(ord("W")) || keyboard_check(vk_up);
 	    _S_KEY = keyboard_check(vk_enter);
 	    _E_KEY = keyboard_check(ord("T"));
-	    _B_KEY = keyboard_check(vk_control);
+	    _B_KEY = keyboard_check_pressed(ord("Z"));
 	    _A_KEY = keyboard_check(vk_space);
 	}
 

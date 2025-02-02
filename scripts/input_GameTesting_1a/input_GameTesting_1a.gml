@@ -5,7 +5,7 @@ function input_GameTesting_1a() {
 	var _i, _idx, _val, _name;
 
 
-	var _CTL   = keyboard_check(vk_control);
+	var _CTL   = keyboard_check_pressed(ord("Z"));
 	var _SHF   = keyboard_check(vk_shift);
 	var _ALT   = keyboard_check(vk_alt);
 	var _CTL0  =  _CTL && !_SHF && !_ALT; // ONLY CTL held

@@ -29,7 +29,7 @@ function RandoDebug01_Step() {
 	        var _can_simulate=false;
         
 	        var _SIMULATION_COUNT=$01;
-	        if (keyboard_check(vk_control))
+	        if ( keyboard_check_pressed(ord("Z")))
 	        {
 	            if (keyboard_check(vk_shift)) _SIMULATION_COUNT=$40;
 	            else                          _SIMULATION_COUNT=$20;

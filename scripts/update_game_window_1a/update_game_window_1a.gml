@@ -129,7 +129,7 @@ function update_game_window_1a() {
 	if(!_WILL_TOGGLE_FULLSCREEN)
 	{
 	    var _SCALE_DIR = 0;
-	    if (keyboard_check(vk_control) 
+	    if ( keyboard_check_pressed(ord("Z"))
 	    //if (Input.keypressed_prev==0 
 	    //&&  keyboard_check(vk_control) 
 	    &&  keyboard_check_pressed(g.WindowScale_KEY) )
