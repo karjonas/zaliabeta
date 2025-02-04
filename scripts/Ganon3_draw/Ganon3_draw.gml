@@ -114,7 +114,7 @@ function Ganon3_draw() {
 
 
 	// Projectile Rain ------------------------------------------
-	pal_swap_set(p.palette_image, ProjRain_PI, false);
+	pal_swap_set(p.palette_image, ProjRain_PI);
 	for(_i=ds_grid_width(dg_ProjRain)-1; _i>=0; _i--)
 	{
 	    if(!dg_ProjRain[#_i,$4]) continue;
@@ -142,7 +142,7 @@ function Ganon3_draw() {
 
 	/*
 	// Body Fire ------------------------------------------
-	pal_swap_set(p.palette_image, PI_MOB_ORG, false);
+	pal_swap_set(p.palette_image, PI_MOB_ORG);
 	for(_i=ds_grid_width(dg_fire)-1; _i>=0; _i--)
 	{
 	    if(!dg_fire[#_i,$3])

@@ -37,7 +37,7 @@ function PauseMenu_Draw() {
 
 	// ----------------------------------------------------------------------------------
 	// Draw frame
-	pal_swap_set(p.palette_image, PI_MENU, false);
+	pal_swap_set(p.palette_image, PI_MENU);
 	for(_i=0; _i<Window_vertical_draw_section_count; _i++) // Each vertical section
 	{
 	    _base_x = drawX;
@@ -161,7 +161,7 @@ function PauseMenu_Draw() {
 	    case ST_MAP:{_sprite1=SPR_ICON_ITM; _sprite2=SPR_ICON_SPL; break;}
 	    }
     
-	    pal_swap_set(p.palette_image, PI_MENU, false);
+	    pal_swap_set(p.palette_image, PI_MENU);
 	    _dist_x = $5<<3; // dist from menu centerx to center of sprite
 	    draw_sprite_(_sprite1,0, _x-_dist_x, _y);
 	    draw_sprite_(_sprite2,0, _x+_dist_x, _y);

@@ -11,7 +11,7 @@ function Shader_palSwap() {
 	    if (sprite_index != -1)
 	    {
 	        // palIndex = p.roomPals[? palKey];
-	        pal_swap_set(p.palSpr, palIndex, false);
+	        pal_swap_set(p.palSpr, palIndex);
 	        draw_self();
 	        pal_swap_reset();
 	    }

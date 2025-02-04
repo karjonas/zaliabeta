@@ -36,7 +36,7 @@ function Cutscene_FloorTrap_1_draw() {
 	    if (CrumbleGround_state==2) _ts = CrumbleGround1_TS;
 	    else                        _ts = CrumbleGround2_TS;
     
-	    pal_swap_set(p.palette_image, PI_BGR_1, false);
+	    pal_swap_set(p.palette_image, PI_BGR_1);
 	    _count = CrumbleGround_Block_CLMS * CrumbleGround_Block_ROWS;
 	    for(_i=0; _i<_count; _i++)
 	    {
@@ -67,7 +67,7 @@ function Cutscene_FloorTrap_1_draw() {
     
     
     
-	    pal_swap_set(p.palette_image, PI_BGR_2, false);
+	    pal_swap_set(p.palette_image, PI_BGR_2);
 	    for(_i=0; _i<MetalBlock_COUNT; _i++)
 	    {
 	        _clm = MetalBlock_CLM + (_i<<1);

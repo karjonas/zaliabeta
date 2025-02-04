@@ -19,7 +19,7 @@ function HUD_Draw() {
 
 
 
-	pal_swap_set(p.palette_image, PI_MENU, false);
+	pal_swap_set(p.palette_image, PI_MENU);
 
 
 

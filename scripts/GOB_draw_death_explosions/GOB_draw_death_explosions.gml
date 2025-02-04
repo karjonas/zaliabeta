@@ -8,7 +8,7 @@ function GOB_draw_death_explosions() {
 
 
 	var _i, _y;
-	pal_swap_set(p.palette_image, PI_MOB_ORG, false);
+	pal_swap_set(p.palette_image, PI_MOB_ORG);
 	for(_i=0; _i<explosion_count; _i++){
 	                                           _y = explosion_y + (_i<<4);
 	    draw_sprite_(explosion_sprite,0, drawX,_y, -1,  1,explosion_yscale); // 

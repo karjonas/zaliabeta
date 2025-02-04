@@ -30,7 +30,7 @@ function NPC_draw() {
 	    ||  CastSpellSprite_timer )
 	    {    var _WING_SPR = spr_Wing_1b_1;  } // b: down
 	    else var _WING_SPR = spr_Wing_1a_1;    // a: up
-	    pal_swap_set(p.palette_image, palidx, false);
+	    pal_swap_set(p.palette_image, palidx);
 	    draw_sprite_(_WING_SPR,0, drawX,drawY, -1,  1);
 	    draw_sprite_(_WING_SPR,0, drawX,drawY, -1, -1);
 	    GO_draw_sprite(sprite);

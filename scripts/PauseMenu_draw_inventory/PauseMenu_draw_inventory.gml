@@ -61,7 +61,7 @@ function PauseMenu_draw_inventory() {
 	{
 	    _base_x = _ITEMX + Crystals_PAD1;
     
-	    pal_swap_set(p.palette_image, PI_MENU, false);
+	    pal_swap_set(p.palette_image, PI_MENU);
 	    for(_i=0; _i<f.CRYSTAL_MAX; _i++)
 	    {
 	        if (f.crystals&($1<<_i)) _spr = SPR_CRYSTAL2; // Crystal     placed
@@ -120,7 +120,7 @@ function PauseMenu_draw_inventory() {
         
 	        _pi = PI_PC_1; // Green PC pal
 	        //_pi = p.dg_PI_SEQ[#$00,0]; // Current PC pal
-	        pal_swap_set(p.palette_image, _pi, false);
+	        pal_swap_set(p.palette_image, _pi);
 	        for(_i=0; _i<LifeDoll_count; _i++)
 	        {
 	            _x = _base_x + (Dolls_PAD*_i);

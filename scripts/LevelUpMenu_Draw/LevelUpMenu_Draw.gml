@@ -60,7 +60,7 @@ function LevelUpMenu_Draw() {
 
 
 	// -------------------------------------------------------------------------
-	pal_swap_set(p.palette_image, PI_DEF, false);
+	pal_swap_set(p.palette_image, PI_DEF);
 	// -------------------------------------------------------------------------
 
 
