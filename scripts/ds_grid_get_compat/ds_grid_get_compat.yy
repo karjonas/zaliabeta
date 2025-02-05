@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ds_grid_get_compat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ds_grid_get_compat",
+  "parent":{
+    "name":"compatibility",
+    "path":"folders/Scripts/compatibility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -64,7 +64,7 @@ function Snaraa_update() {
 	    hspd = (hspd*_DIR) &$FF;
     
     
-	    if (byte(g.dg_RmTile_solid[#rc_b2&$FF, rc_b2>>8]) != TID_SOLID1)
+	    if (byte(ds_grid_get_compat(g.dg_RmTile_solid, rc_b2&$FF, rc_b2>>8)) != TID_SOLID1)
 	    {   // Just in case target no longer solid.
 	        _x  = (rc_a&$FF)<<3;
 	        path_dist = Snaraa_update_1(_x>>3);
@@ -127,7 +127,7 @@ function Snaraa_update() {
 	            Snaraa_update_2();
             
 	            _DIR = bit_dir(path_dir&$3);
-	            if (byte(g.dg_RmTile_solid[#rc_a2&$FF, rc_a2>>8]) != TID_SOLID1)
+	            if (byte(ds_grid_get_compat(g.dg_RmTile_solid, rc_a2&$FF, rc_a2>>8)) != TID_SOLID1)
 	            {
 	                timer = $40;
 	                sub_state = SUB_STATE_ATK1;

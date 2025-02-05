@@ -1975,6 +1975,7 @@
     {"id":{"name":"drawPointCross","path":"scripts/drawPointCross/drawPointCross.yy",},},
     {"id":{"name":"drawSprite","path":"scripts/drawSprite/drawSprite.yy",},},
     {"id":{"name":"drawSprOutline","path":"scripts/drawSprOutline/drawSprOutline.yy",},},
+    {"id":{"name":"ds_grid_get_compat","path":"scripts/ds_grid_get_compat/ds_grid_get_compat.yy",},},
     {"id":{"name":"DungeonMapVisible_refresh","path":"scripts/DungeonMapVisible_refresh/DungeonMapVisible_refresh.yy",},},
     {"id":{"name":"Elevator_draw","path":"scripts/Elevator_draw/Elevator_draw.yy",},},
     {"id":{"name":"Elevator_end","path":"scripts/Elevator_end/Elevator_end.yy",},},

@@ -1,4 +1,5 @@
-- Wizard not invisible
-- many tiles fooked still
+- Wizard not invisible?
+- Lag when block is destroyed
+
 
 
