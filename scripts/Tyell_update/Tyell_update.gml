@@ -7,7 +7,7 @@ function Tyell_update() {
 
 	if (isVal(sub_state, SUB_STATE_IDLE1,SUB_STATE_LAUNCH_COUNTDOWN))
 	{
-	    if (g.dg_RmTile_Break[#xl>>3,yt>>3]&$FF != UNIQUE)
+	    if (ds_grid_get_compat(g.dg_RmTile_Break, xl>>3, yt>>3)&$FF != UNIQUE)
 	    {   // PC broke block before attack.
 	        timer = 0;
 	        sub_state = SUB_STATE_DONE1;
