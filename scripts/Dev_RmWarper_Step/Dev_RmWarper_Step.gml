@@ -64,7 +64,7 @@ function Dev_RmWarper_Step() {
 
 
 	//                      Hold SELECT                    &&  Press xbox Y
-	var _RQST_OPEN_APP   = (Input.Magic_held || Input.GP_Select_held)  && _xbox_yp; // Hold SELECT  &&  Press xbox Y
+	var _RQST_OPEN_APP   = keyboard_check_pressed(ord("Q")); // Hold SELECT  &&  Press xbox Y
 
 
 	// FWRD: FORWARD (RIGHT. state += 1)
