@@ -30,7 +30,7 @@ function Ganon1_draw() {
 	}
 
 
-	pal_swap_set(p.palette_image, PI_MOB_RED);
+	pal_swap_set(p.palette_image, PI_MOB_RED, false);
 	if (BottleLiquid_can_draw 
 	&&  BottleLiquid_level )
 	{

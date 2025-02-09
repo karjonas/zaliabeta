@@ -5,7 +5,7 @@ function Doomknocker_draw() {
 	if(!can_draw_self) exit; // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
-	pal_swap_set(p.palette_image, palidx);
+	pal_swap_set(p.palette_image, palidx, false);
 
 	draw_sprite_(Arm_sprite,0, drawX+Arm_xoff, drawY+Arm_yoff, -1, xScale);
 

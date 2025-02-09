@@ -38,7 +38,7 @@ function PC_draw() {
 	            {
 	                _x = _x1;
 	                _y = _y1;
-	                pal_swap_set(p.palette_image, Draw_palidx);
+	                pal_swap_set(p.palette_image, Draw_palidx, false);
 	                if (Cucco_sprite_body==Cucco_SPRITE_BODY4   // crouch
 	                ||  Cucco_sprite_body==Cucco_SPRITE_BODY5 ) // crouch (head fwrd)
 	                {   // draw legs behind body

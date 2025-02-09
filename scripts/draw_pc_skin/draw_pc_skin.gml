@@ -46,7 +46,7 @@ function draw_pc_skin() {
 	            case 1:{
 	            var _val, _sub_image_index;
             
-	            pal_swap_set(p.palette_image, _PALIDX);
+	            pal_swap_set(p.palette_image, _PALIDX, false);
 	            // Shield
 	            if(!_USE_DISGUISE)
 	            {
@@ -125,7 +125,7 @@ function draw_pc_skin() {
             
             
             
-	            pal_swap_set(p.palette_image, _PALIDX);
+	            pal_swap_set(p.palette_image, _PALIDX, false);
 	            _count = ds_list_size(_dl1);
 	            for(_i=0; _i<_count; _i++)
 	            {
@@ -181,7 +181,7 @@ function draw_pc_skin() {
 	        _y += Spritesheet_H * sign(!_Y_SCALE);
         
         
-	        pal_swap_set(p.palette_image, _PALIDX);
+	        pal_swap_set(p.palette_image, _PALIDX, false);
 	        // Shield
 	        if(!_USE_DISGUISE)
 	        {

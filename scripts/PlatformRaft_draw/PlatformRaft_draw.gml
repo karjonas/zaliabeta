@@ -31,7 +31,7 @@ function PlatformRaft_draw() {
 
 
 
-	pal_swap_set(p.palette_image, palidx_base);
+	pal_swap_set(p.palette_image, palidx_base, false);
 	if (USE_SURF 
 	&&  surface_exists(Raft_SURF) )
 	{

@@ -12,7 +12,7 @@ function Rando_draw_seed() {
 	var                    _PAD = $04;
 	if (argument_count>_i) _PAD = argument[_i++];
 
-	pal_swap_set(p.palette_image, PI_MOB_ORG);
+	pal_swap_set(p.palette_image, PI_MOB_ORG, false);
 	for(_i=g.RandoSeedChar_COUNT-1; _i>=0; _i--)
 	//for(_i=0; _i<RandoSeedChar_COUNT; _i++)
 	{

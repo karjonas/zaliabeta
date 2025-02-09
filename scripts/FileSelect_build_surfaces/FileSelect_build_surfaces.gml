@@ -24,7 +24,7 @@ function FileSelect_build_surfaces() {
 	        var _text;
 	        var _tsrc, _ts_x,_ts_y;
         
-	        pal_swap_set(p.palette_image, PI_MENU);
+	        pal_swap_set(p.palette_image, PI_MENU, false);
         
 	        // HEADER =======================
 	        _text = "S E L E C T";
@@ -113,7 +113,7 @@ function FileSelect_build_surfaces() {
 	    }
 	    else
 	    {
-	        pal_swap_set(p.palette_image, PI_GUI_1);
+	        pal_swap_set(p.palette_image, PI_GUI_1, false);
 	        if (surface_exists(surf_MAIN))
 	        {   draw_surface(  surf_MAIN, surf_MAIN_XL,surf_MAIN_YT);  }
 	        pal_swap_reset();
@@ -130,7 +130,7 @@ function FileSelect_build_surfaces() {
 	    /*
 	    else
 	    {
-	        pal_swap_set(p.palette_image, PI_GUI_1);
+	        pal_swap_set(p.palette_image, PI_GUI_1, false);
 	        if (surface_exists(surf_REGISTER))
 	        {   draw_surface(  surf_REGISTER, surf_MAIN_XL,surf_MAIN_YT);  }
 	        pal_swap_reset();
@@ -247,7 +247,7 @@ function FileSelect_build_surfaces() {
 	        }
         
         
-	        pal_swap_set(p.palette_image, PI_MENU);
+	        pal_swap_set(p.palette_image, PI_MENU, false);
         
         
         

@@ -9,7 +9,7 @@ function Bubble_draw() {
 	if (ver & VER_BIT_CLNG) _ROT = rotation * 90;
 
 
-	pal_swap_set(p.palette_image, palidx);
+	pal_swap_set(p.palette_image, palidx, false);
 	if (ver & VER_BIT_GIAN) // GiantBubble
 	{
 	    // Left  half
