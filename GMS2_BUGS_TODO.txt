@@ -1,5 +1,5 @@
 - Wizard not invisible?
 - Lag when block is destroyed
-
+- Battle music plays for one frame at final boss
 
 
